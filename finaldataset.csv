@@ -1,0 +1,1001 @@
+age_scal,time_spent_scal,income_scal,age_scal,gender,time_spent,platform,interests,location,demographics,profession,income,indebt,isHomeOwner,Owns_Car,gender_Encoded,platform_Encoded,interests_Encoded,location_Encoded,demographics_Encoded,profession_Encoded,indebt_Encoded,isHomeOwner_Encoded,Owns_Car_Encoded
+1.1128817500082018,-0.7999008394817166,1.609380435596781,56,male,3,Instagram,Sports,United Kingdom,Urban,Software Engineer,19774,True,False,False,1,1,1,1,2,1,1,0,0
+0.37165239739850314,-1.1941348658403743,-1.5051063363485266,46,female,2,Facebook,Travel,United Kingdom,Urban,Student,10564,True,True,True,0,0,2,1,2,2,1,1,1
+-0.666068696255075,1.1712692923115724,-0.5940935932843944,32,male,8,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,13258,False,False,False,1,1,1,0,1,0,0,0,0
+1.4093734910520812,-0.011432786764401043,-0.8504216033967226,60,non-binary,5,Instagram,Travel,United Kingdom,Urban,Student,12500,False,True,False,2,1,2,1,2,2,0,1,0
+-1.184929243081864,-1.5883688921990322,-0.15177560221984907,25,male,1,Instagram,Lifestlye,Australia,Urban,Software Engineer,14566,False,True,True,1,1,0,0,2,1,0,1,1
+-0.2213310846892558,-0.7999008394817166,1.4081730925666551,38,male,3,Facebook,Travel,United States,Urban,Marketer Manager,19179,True,True,True,1,0,2,2,2,0,1,1,1
+1.1128817500082018,1.1712692923115724,0.6310731357881192,56,male,8,YouTube,Sports,United States,Urban,Student,16881,True,True,True,1,2,1,2,2,2,1,1,1
+-0.36957695521119555,-0.4056668131230588,-0.46626775182996155,36,male,4,Instagram,Sports,Australia,Urban,Marketer Manager,13636,True,False,True,1,1,1,0,2,0,1,0,1
+-0.07308521416731607,0.7770352659529145,0.34329591071477966,40,non-binary,7,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,16030,False,False,True,2,2,0,0,1,0,0,0,1
+-0.9625604372989545,-1.1941348658403743,-1.6204201245389012,28,non-binary,2,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,10223,True,False,True,2,1,1,0,1,0,1,0,1
+-0.9625604372989545,0.7770352659529145,0.43358559237703775,28,female,7,YouTube,Lifestlye,United Kingdom,Urban,Student,16297,True,True,False,0,2,0,1,2,2,1,1,0
+0.001037721093653793,-0.011432786764401043,-1.5774733471190256,41,non-binary,5,Facebook,Sports,United States,Sub_Urban,Marketer Manager,10350,False,False,False,2,0,1,2,1,0,0,0,0
+0.8905129442252921,-0.011432786764401043,0.7774979753377737,53,non-binary,5,Facebook,Sports,Australia,Rural,Student,17314,False,True,True,2,0,1,0,0,2,0,1,1
+1.1870046852691716,0.3828012395942567,-1.0438511835870283,57,female,6,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,11928,False,True,False,0,1,0,1,2,1,0,1,0
+0.001037721093653793,1.56550331867023,0.922570160480503,41,non-binary,9,YouTube,Travel,United States,Rural,Student,17743,True,True,False,2,2,2,2,0,2,1,1,0
+-1.5555439193867133,0.3828012395942567,1.192086551060352,20,male,6,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,18540,True,True,False,1,0,1,1,1,1,1,1,0
+-0.14720814942828594,1.1712692923115724,-0.09564044433245263,39,male,8,Instagram,Travel,United States,Sub_Urban,Student,14732,True,True,False,1,1,2,2,1,2,1,1,0
+-1.6296668546476831,0.7770352659529145,-1.351918224764246,19,female,7,Instagram,Sports,United Kingdom,Rural,Marketer Manager,11017,False,True,True,0,1,1,1,0,0,0,1,1
+0.001037721093653793,1.56550331867023,-0.9430784302710998,41,female,9,Facebook,Sports,United States,Sub_Urban,Student,12226,False,False,False,0,0,1,2,1,2,0,0,0
+1.483496426313051,-0.4056668131230588,0.7409763063507928,61,female,4,Facebook,Sports,United States,Urban,Marketer Manager,17206,False,False,False,0,0,1,2,2,0,0,0,0
+0.445775332659473,-1.1941348658403743,0.7288024166884659,47,male,2,Instagram,Sports,United Kingdom,Rural,Software Engineer,17170,False,False,True,1,1,1,1,0,1,0,0,1
+1.038758814747232,0.7770352659529145,0.4031508682212204,55,non-binary,7,YouTube,Travel,Australia,Urban,Student,16207,True,False,True,2,2,2,0,2,2,1,0,1
+-1.6296668546476831,0.3828012395942567,-0.8778128551369582,19,male,6,YouTube,Travel,United States,Rural,Marketer Manager,12419,True,True,True,1,2,2,2,0,0,1,1,1
+-0.2213310846892558,-1.5883688921990322,0.41431026707835344,38,female,1,YouTube,Sports,Australia,Sub_Urban,Software Engineer,16240,True,True,True,0,2,1,0,1,1,1,1,1
+0.6681441384423826,1.56550331867023,-1.055686909647624,50,non-binary,9,Instagram,Sports,United Kingdom,Rural,Software Engineer,11893,True,False,False,2,1,1,1,0,1,1,0,0
+-0.8884375020379846,1.56550331867023,0.10387608068901659,29,non-binary,9,Facebook,Travel,Australia,Rural,Student,15322,True,False,True,2,0,2,0,0,2,1,0,1
+-0.14720814942828594,-1.1941348658403743,0.9141160704372204,39,male,2,Instagram,Lifestlye,Australia,Urban,Software Engineer,17718,True,False,False,1,1,0,0,2,1,1,0,0
+1.483496426313051,-0.7999008394817166,0.6300586449829252,61,female,3,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,16878,True,False,False,0,0,0,0,1,0,1,0,0
+0.07516065635462366,-0.011432786764401043,-1.3153965557772653,42,male,5,YouTube,Travel,Australia,Urban,Software Engineer,11125,True,False,True,1,2,2,0,2,1,1,0,1
+0.2234065268765634,-0.011432786764401043,-0.6417746611285082,44,non-binary,5,YouTube,Sports,Australia,Sub_Urban,Software Engineer,13117,False,False,True,2,2,1,0,1,1,0,0,1
+1.3352505557911114,-1.5883688921990322,-0.2887318609210271,59,male,1,Facebook,Sports,United States,Urban,Marketer Manager,14161,False,False,True,1,0,1,2,2,0,0,0,1
+0.29752946213753323,1.1712692923115724,-0.3289733295270522,45,male,8,Facebook,Lifestlye,United States,Rural,Software Engineer,14042,True,False,True,1,0,0,2,0,1,1,0,1
+-0.5919457609941051,1.1712692923115724,-0.19675136125011244,33,female,8,Instagram,Lifestlye,United States,Urban,Software Engineer,14433,False,True,True,0,1,0,2,2,1,0,1,1
+-0.666068696255075,-0.4056668131230588,1.2252265840300198,32,female,4,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,18638,True,True,True,0,2,2,1,1,1,1,1,1
+1.7058652320959606,0.7770352659529145,-0.7969917543231766,64,non-binary,7,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,12658,True,True,False,2,1,0,0,1,1,1,1,0
+1.483496426313051,-0.7999008394817166,-0.518006782894851,61,male,3,Instagram,Travel,United States,Rural,Marketer Manager,13483,False,True,False,1,1,2,2,0,0,0,1,0
+-1.5555439193867133,0.3828012395942567,-0.7002769642280238,20,male,6,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,12944,True,False,False,1,1,0,1,1,1,1,0,0
+0.9646358794862621,1.56550331867023,0.742328960757718,54,male,9,YouTube,Lifestlye,United States,Urban,Marketer Manager,17210,True,True,False,1,2,0,2,2,0,1,1,0
+-1.259052178342834,-1.5883688921990322,0.8921354363246856,24,non-binary,1,Instagram,Lifestlye,United States,Rural,Software Engineer,17653,True,False,True,2,1,0,2,0,1,1,0,1
+-0.2213310846892558,-0.011432786764401043,1.275612960687984,38,non-binary,5,Instagram,Sports,Australia,Sub_Urban,Software Engineer,18787,True,True,True,2,1,1,0,1,1,1,1,1
+-1.110806307820894,-0.4056668131230588,-1.0242376946866127,26,female,4,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,11986,True,False,False,0,1,1,1,1,1,1,0,0
+1.1128817500082018,1.1712692923115724,-1.3326428994655617,56,female,8,Instagram,Sports,Australia,Urban,Software Engineer,11074,True,False,False,0,1,1,0,2,1,1,0,0
+-0.4436998904721654,-1.5883688921990322,-0.24003630227171935,35,female,1,Instagram,Lifestlye,Australia,Urban,Marketer Manager,14305,True,True,False,0,1,0,0,2,0,1,1,0
+-1.4814209841257435,1.56550331867023,-0.6789726573189516,21,male,9,Instagram,Travel,United States,Rural,Marketer Manager,13007,False,True,True,1,1,2,2,0,0,0,1,1
+0.07516065635462366,0.3828012395942567,-1.3681500776473488,42,male,6,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,10969,False,False,True,1,2,2,0,1,0,0,0,1
+-0.7401916315160448,-0.4056668131230588,1.2705405066620146,31,female,4,Instagram,Travel,United Kingdom,Urban,Student,18772,True,False,True,0,1,2,1,2,2,1,0,1
+-1.110806307820894,1.56550331867023,-0.7408565964357802,26,male,9,Facebook,Travel,Australia,Rural,Software Engineer,12824,False,False,False,1,0,2,0,0,1,0,0,0
+0.1492835916155935,-0.011432786764401043,-1.286314486028373,43,female,5,Instagram,Sports,Australia,Sub_Urban,Software Engineer,11211,True,True,False,0,1,1,0,1,1,1,1,0
+-1.6296668546476831,-0.011432786764401043,-1.6183911429285134,19,non-binary,5,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,10229,True,True,True,2,1,1,0,1,0,1,1,1
+-0.2954540199502257,-0.011432786764401043,-0.24713773790807672,37,female,5,YouTube,Lifestlye,United States,Rural,Student,14284,True,False,True,0,2,0,2,0,2,1,0,1
+0.29752946213753323,-1.5883688921990322,-0.6187795362107795,45,non-binary,1,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,13185,True,True,False,2,2,0,1,0,1,1,1,0
+1.7058652320959606,-1.5883688921990322,-1.5264106432575988,64,male,1,Facebook,Travel,United States,Urban,Marketer Manager,10501,False,False,False,1,0,2,2,2,0,0,0,0
+-1.259052178342834,1.1712692923115724,-1.6795987548418794,24,female,8,Facebook,Sports,United States,Sub_Urban,Software Engineer,10048,False,True,True,0,0,1,2,1,1,0,1,1
+1.483496426313051,1.1712692923115724,-0.4899392039511528,61,male,8,YouTube,Travel,United States,Sub_Urban,Software Engineer,13566,False,True,False,1,2,2,2,1,1,0,1,0
+-1.184929243081864,0.3828012395942567,-0.662740804435849,25,non-binary,6,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,13055,False,True,True,2,2,0,2,1,0,0,1,1
+1.7058652320959606,-0.4056668131230588,1.3070621756489953,64,non-binary,4,Instagram,Lifestlye,United States,Rural,Marketer Manager,18880,True,True,True,2,1,0,2,0,0,1,1,1
+0.8163900089643223,-1.1941348658403743,-1.5652994574566987,52,non-binary,2,YouTube,Travel,United Kingdom,Urban,Software Engineer,10386,False,True,False,2,2,2,1,2,1,0,1,0
+-0.7401916315160448,-1.1941348658403743,-1.3681500776473488,31,male,2,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,10969,True,False,False,1,0,0,0,1,1,1,0,0
+-0.5178228257331352,1.56550331867023,1.4142600373978187,34,male,9,Instagram,Travel,United States,Rural,Marketer Manager,19197,True,False,False,1,1,2,2,0,0,1,0,0
+0.8905129442252921,-0.011432786764401043,0.2722815543512059,53,male,5,Facebook,Sports,United States,Sub_Urban,Software Engineer,15820,False,True,True,1,0,1,2,1,1,0,1,1
+1.1870046852691716,-0.4056668131230588,-0.6637552952410429,57,male,4,Instagram,Travel,United Kingdom,Urban,Software Engineer,13052,True,False,False,1,1,2,1,2,1,1,0,0
+-1.4814209841257435,-1.5883688921990322,0.8055655542814719,21,non-binary,1,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,17397,False,False,False,2,2,1,1,1,0,0,0,0
+-1.6296668546476831,0.7770352659529145,-0.9173779965395208,19,non-binary,7,Facebook,Sports,Australia,Urban,Software Engineer,12302,False,True,True,2,0,1,0,2,1,0,1,1
+-1.3331751136038037,-0.7999008394817166,-0.9238031049724156,23,female,3,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,12283,False,False,True,0,1,0,1,2,1,0,0,1
+1.3352505557911114,0.3828012395942567,1.6178345256400635,59,female,6,Instagram,Lifestlye,Australia,Sub_Urban,Student,19799,False,True,False,0,1,0,0,1,2,0,1,0
+-1.4814209841257435,-0.011432786764401043,-0.21940832256610981,21,male,5,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,14366,False,False,True,1,2,0,2,1,0,0,0,1
+0.37165239739850314,-0.011432786764401043,-1.6545746483137629,46,non-binary,5,YouTube,Travel,United States,Urban,Student,10122,True,False,True,2,2,2,2,2,2,1,0,1
+-0.4436998904721654,-0.011432786764401043,0.6033437204461523,35,non-binary,5,YouTube,Travel,Australia,Rural,Student,16799,False,False,True,2,2,2,0,0,2,0,0,1
+0.1492835916155935,-1.5883688921990322,1.5072550278739272,43,non-binary,1,Facebook,Lifestlye,United Kingdom,Urban,Student,19472,False,False,False,2,0,0,1,2,2,0,0,0
+1.483496426313051,-1.5883688921990322,-0.4354948640724129,61,female,1,Instagram,Travel,Australia,Sub_Urban,Software Engineer,13727,True,False,False,0,1,2,0,1,1,1,0,0
+0.7422670737033524,-0.7999008394817166,1.1616518269045348,51,female,3,YouTube,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,18450,False,False,True,0,2,0,1,1,1,0,0,1
+-1.0366833725599243,-0.4056668131230588,1.394646548497403,27,non-binary,4,Facebook,Travel,United States,Rural,Student,19139,False,False,True,2,0,2,2,0,2,0,0,1
+0.8905129442252921,-0.011432786764401043,-0.01921547034117798,53,non-binary,5,Facebook,Sports,United Kingdom,Urban,Student,14958,True,True,True,2,0,1,1,2,2,1,1,1
+-0.7401916315160448,-1.1941348658403743,-1.5186328804177789,31,non-binary,2,Facebook,Sports,Australia,Urban,Student,10524,True,True,False,2,0,1,0,2,2,1,1,0
+0.5198982679204428,1.1712692923115724,1.3743567323935248,48,female,8,YouTube,Lifestlye,Australia,Urban,Software Engineer,19079,False,True,True,0,2,0,0,2,1,0,1,1
+-0.666068696255075,-1.1941348658403743,1.1444054832162383,32,non-binary,2,YouTube,Travel,United States,Sub_Urban,Student,18399,True,True,True,2,2,2,2,1,2,1,1,1
+-1.184929243081864,1.56550331867023,-1.645782394668749,25,non-binary,9,Instagram,Travel,United Kingdom,Urban,Student,10148,False,False,False,2,1,2,1,2,2,0,0,0
+-0.7401916315160448,-1.1941348658403743,1.0098163697271794,31,male,2,Instagram,Sports,United Kingdom,Rural,Marketer Manager,18001,True,False,True,1,1,1,1,0,0,1,0,1
+-0.07308521416731607,1.56550331867023,-1.5480531137684024,40,male,9,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,10437,False,False,False,1,2,1,1,1,0,0,0,0
+1.1870046852691716,0.7770352659529145,-0.4280552648343242,57,female,7,Facebook,Lifestlye,United States,Sub_Urban,Software Engineer,13749,False,True,False,0,0,0,2,1,1,0,1,0
+-0.2213310846892558,1.1712692923115724,1.0723766360474705,38,non-binary,8,Facebook,Sports,United Kingdom,Urban,Marketer Manager,18186,False,True,False,2,0,1,1,2,0,0,1,0
+-0.5919457609941051,-1.1941348658403743,-0.18998808921548638,33,non-binary,2,Facebook,Lifestlye,Australia,Rural,Marketer Manager,14453,True,True,True,2,0,0,0,0,0,1,1,1
+1.557619361574021,0.7770352659529145,0.10861037111325483,62,male,7,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,15336,False,False,True,1,1,1,1,1,0,0,0,1
+-0.4436998904721654,0.3828012395942567,-0.1568480562458186,35,female,6,Facebook,Sports,United States,Sub_Urban,Software Engineer,14551,True,True,False,0,0,1,2,1,1,1,1,0
+1.7058652320959606,-0.4056668131230588,-0.7411947600375115,64,male,4,Instagram,Travel,United Kingdom,Urban,Marketer Manager,12823,False,False,True,1,1,2,1,2,0,0,0,1
+0.001037721093653793,0.7770352659529145,0.2411705029919259,41,male,7,Instagram,Sports,United Kingdom,Urban,Software Engineer,15728,False,True,False,1,1,1,1,2,1,0,1,0
+0.1492835916155935,-0.4056668131230588,1.2384149644975406,43,male,4,Facebook,Sports,Australia,Rural,Student,18677,False,False,True,1,0,1,0,0,2,0,0,1
+0.07516065635462366,-1.1941348658403743,1.1417001744023878,42,male,2,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,18391,False,True,False,1,0,0,1,2,0,0,1,0
+1.557619361574021,0.7770352659529145,-1.0255903490935379,62,non-binary,7,YouTube,Sports,Australia,Rural,Software Engineer,11982,False,False,False,2,2,1,0,0,1,0,0,0
+1.2611276205301414,1.1712692923115724,0.669961949987219,58,non-binary,8,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,16996,True,True,True,2,2,0,0,1,0,1,1,1
+0.37165239739850314,-1.1941348658403743,1.5718442758046063,46,male,2,Facebook,Sports,United States,Rural,Student,19663,True,True,True,1,0,1,2,0,2,1,1,1
+-0.666068696255075,-0.011432786764401043,-0.914334524123939,32,female,5,Instagram,Sports,Australia,Rural,Software Engineer,12311,True,False,True,0,1,1,0,0,1,1,0,1
+1.557619361574021,-1.5883688921990322,0.7474014147836876,62,female,1,Instagram,Lifestlye,Australia,Rural,Software Engineer,17225,False,False,True,0,1,0,0,0,1,0,0,1
+-1.7037897899086532,0.7770352659529145,1.5887524558911714,18,female,7,Instagram,Travel,United States,Sub_Urban,Software Engineer,19713,False,True,False,0,1,2,2,1,1,0,1,0
+0.07516065635462366,1.1712692923115724,-1.4915797922792746,42,female,8,Instagram,Lifestlye,Australia,Urban,Student,10604,True,False,False,0,1,0,0,2,2,1,0,0
+-1.259052178342834,0.3828012395942567,1.0686568364284261,24,male,6,Instagram,Lifestlye,United States,Sub_Urban,Student,18175,False,True,True,1,1,0,2,1,2,0,1,1
+-1.110806307820894,-0.011432786764401043,0.26044582829061025,26,non-binary,5,YouTube,Lifestlye,United Kingdom,Urban,Student,15785,False,False,True,2,2,0,1,2,2,0,0,1
+0.001037721093653793,0.3828012395942567,1.5535834413111158,41,female,6,Facebook,Travel,United States,Rural,Software Engineer,19609,False,True,False,0,0,2,2,0,1,0,1,0
+-1.7037897899086532,-1.1941348658403743,-0.14129253056617863,18,male,2,YouTube,Sports,Australia,Rural,Student,14597,True,False,True,1,2,1,0,0,2,1,0,1
+1.483496426313051,-1.5883688921990322,0.9279807781082039,61,female,1,Instagram,Lifestlye,United States,Rural,Marketer Manager,17759,True,True,True,0,1,0,2,0,0,1,1,1
+-1.184929243081864,0.7770352659529145,0.8512176405151979,25,female,7,Instagram,Lifestlye,Australia,Rural,Student,17532,True,True,True,0,1,0,0,0,2,1,1,1
+0.001037721093653793,0.7770352659529145,1.2597192714066128,41,male,7,Instagram,Travel,United Kingdom,Rural,Software Engineer,18740,True,True,True,1,1,2,1,0,1,1,1,1
+-0.9625604372989545,-1.1941348658403743,-1.4124495094741494,28,non-binary,2,Instagram,Lifestlye,United States,Urban,Marketer Manager,10838,True,False,False,2,1,0,2,2,0,1,0,0
+-0.5178228257331352,-1.1941348658403743,-0.4057364671200582,34,non-binary,2,Facebook,Sports,United Kingdom,Urban,Student,13815,False,True,False,2,0,1,1,2,2,0,1,0
+-1.184929243081864,-1.5883688921990322,-1.4094060370585677,25,male,1,Instagram,Travel,Australia,Rural,Marketer Manager,10847,False,False,True,1,1,2,0,0,0,0,0,1
+0.8163900089643223,1.1712692923115724,-0.10341820717227261,52,non-binary,8,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,14709,False,False,False,2,0,1,0,1,0,0,0,0
+0.8163900089643223,1.1712692923115724,-0.171727254721996,52,male,8,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,14507,False,False,True,1,1,1,1,1,1,0,0,1
+0.6681441384423826,-1.5883688921990322,0.5275950736583402,50,male,1,Facebook,Travel,United States,Rural,Marketer Manager,16575,True,True,True,1,0,2,2,0,0,1,1,1
+-1.4072980488647737,1.1712692923115724,-0.08177573666146917,22,male,8,YouTube,Lifestlye,United States,Urban,Marketer Manager,14773,True,False,True,1,2,0,2,2,0,1,0,1
+1.3352505557911114,1.56550331867023,-0.1849156351895168,59,non-binary,9,Instagram,Sports,Australia,Sub_Urban,Software Engineer,14468,False,False,False,2,1,1,0,1,1,0,0,0
+1.1128817500082018,-0.4056668131230588,0.0599148124639471,56,male,4,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,15192,True,False,False,1,0,1,1,1,1,1,0,0
+1.2611276205301414,-1.5883688921990322,-0.5731274499770536,58,female,1,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,13320,False,True,False,0,2,1,1,1,1,0,1,0
+0.29752946213753323,-1.5883688921990322,-0.10713800679131696,45,non-binary,1,Instagram,Sports,United States,Rural,Marketer Manager,14698,False,False,False,2,1,1,2,0,0,0,0,0
+-1.259052178342834,-0.7999008394817166,-0.2380073206613315,24,non-binary,3,Instagram,Travel,United States,Sub_Urban,Marketer Manager,14311,False,False,False,2,1,2,2,1,0,0,0,0
+-1.110806307820894,-0.011432786764401043,-0.4537556985659033,26,non-binary,5,Instagram,Travel,United States,Sub_Urban,Marketer Manager,13673,False,False,True,2,1,2,2,1,0,0,0,1
+-1.184929243081864,-0.011432786764401043,-1.166942734617223,25,non-binary,5,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,11564,True,False,True,2,0,1,1,1,1,1,0,1
+-0.8884375020379846,1.56550331867023,-1.073609580539383,29,female,9,Facebook,Lifestlye,United States,Sub_Urban,Student,11840,False,True,False,0,0,0,2,1,2,0,1,0
+0.7422670737033524,-1.1941348658403743,0.3527644915632562,51,non-binary,2,YouTube,Sports,United States,Urban,Marketer Manager,16058,True,True,False,2,2,1,2,2,0,1,1,0
+0.6681441384423826,-1.1941348658403743,0.7156140362209451,50,non-binary,2,Facebook,Lifestlye,Australia,Rural,Student,17131,False,False,False,2,0,0,0,0,2,0,0,0
+-0.07308521416731607,0.3828012395942567,-1.4503238328680554,40,male,6,Facebook,Sports,United States,Rural,Software Engineer,10726,False,False,True,1,0,1,2,0,1,0,0,1
+0.001037721093653793,1.56550331867023,1.4950811382116003,41,non-binary,9,Instagram,Lifestlye,United States,Urban,Marketer Manager,19436,False,False,False,2,1,0,2,2,0,0,0,0
+0.9646358794862621,-1.5883688921990322,0.5688510330695592,54,female,1,Instagram,Sports,United Kingdom,Urban,Student,16697,False,False,True,0,1,1,1,2,2,0,0,1
+0.8163900089643223,1.56550331867023,1.434549853501697,52,female,9,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,19257,True,True,True,0,1,0,1,0,0,1,1,1
+1.483496426313051,1.56550331867023,-1.6004684720367544,61,female,9,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,10282,False,True,False,0,1,1,0,1,0,0,1,0
+1.1870046852691716,1.56550331867023,-1.3302757542534427,57,female,9,Instagram,Sports,United States,Sub_Urban,Marketer Manager,11081,True,True,True,0,1,1,2,1,0,1,1,1
+-0.14720814942828594,-0.011432786764401043,-0.3820650149988669,39,non-binary,5,Instagram,Lifestlye,Australia,Rural,Student,13885,False,True,True,2,1,0,0,0,2,0,1,1
+0.2234065268765634,1.56550331867023,-0.7215812711370959,44,non-binary,9,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,12881,False,False,False,2,1,2,1,1,1,0,0,0
+0.8163900089643223,-0.4056668131230588,-0.6914847105830099,52,female,4,YouTube,Lifestlye,Australia,Urban,Marketer Manager,12970,False,False,True,0,2,0,0,2,0,0,0,1
+-1.7037897899086532,-1.1941348658403743,1.4639700868523202,18,female,2,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,19344,True,True,False,0,2,2,1,1,1,1,1,0
+0.8163900089643223,0.3828012395942567,0.6662421503681747,52,non-binary,6,YouTube,Sports,Australia,Sub_Urban,Software Engineer,16985,False,True,True,2,2,1,0,1,1,0,1,1
+0.9646358794862621,-0.4056668131230588,-1.3755896768854374,54,female,4,YouTube,Lifestlye,Australia,Sub_Urban,Student,10947,False,False,False,0,2,0,0,1,2,0,0,0
+1.7058652320959606,0.3828012395942567,-0.08617186348397612,64,male,6,Instagram,Lifestlye,United States,Rural,Student,14760,False,False,False,1,1,0,2,0,2,0,0,0
+-0.7401916315160448,-0.7999008394817166,1.6550325218305069,31,female,3,YouTube,Lifestlye,Australia,Urban,Software Engineer,19909,False,False,True,0,2,0,0,2,1,0,0,1
+-1.5555439193867133,0.3828012395942567,-1.673511810010716,20,female,6,Instagram,Travel,United States,Sub_Urban,Marketer Manager,10066,False,False,False,0,1,2,2,1,0,0,0,0
+-1.7037897899086532,-1.1941348658403743,1.2894776683589675,18,male,2,YouTube,Travel,United States,Rural,Student,18828,True,False,True,1,2,2,2,0,2,1,0,1
+-1.4072980488647737,-1.1941348658403743,1.1802508249997565,22,male,2,Facebook,Sports,United States,Sub_Urban,Marketer Manager,18505,True,True,True,1,0,1,2,1,0,1,1,1
+0.1492835916155935,1.56550331867023,-1.5051063363485266,43,non-binary,9,YouTube,Travel,United States,Urban,Marketer Manager,10564,False,True,False,2,2,2,2,2,0,0,1,0
+-0.7401916315160448,0.7770352659529145,1.6158055440296757,31,non-binary,7,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,19793,False,False,True,2,2,2,0,1,0,0,0,1
+1.1128817500082018,-0.7999008394817166,1.353390589086184,56,male,3,Instagram,Sports,United Kingdom,Urban,Software Engineer,19017,True,False,False,1,1,1,1,2,1,1,0,0
+0.2234065268765634,-1.5883688921990322,-0.4547701893710972,44,male,1,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,13670,False,True,True,1,2,0,1,1,0,0,1,1
+-1.110806307820894,1.1712692923115724,1.4210233094324447,26,non-binary,8,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,19217,True,False,True,2,0,0,1,2,1,1,0,1
+-0.666068696255075,0.3828012395942567,-0.9346243402278173,32,female,6,Instagram,Sports,Australia,Sub_Urban,Software Engineer,12251,False,True,False,0,1,1,0,1,1,0,1,0
+-0.666068696255075,0.7770352659529145,-1.4239470719330138,32,male,7,Instagram,Lifestlye,United States,Urban,Marketer Manager,10804,False,True,True,1,1,0,2,2,0,0,1,1
+0.1492835916155935,1.56550331867023,-0.1297949681073143,43,non-binary,9,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,14631,True,True,True,2,2,2,1,1,0,1,1,1
+1.3352505557911114,-0.011432786764401043,1.5447911876661018,59,female,5,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,19583,False,True,True,0,1,1,0,1,0,0,1,1
+-0.8143145667770147,-1.5883688921990322,-1.278198559586822,30,male,1,Instagram,Sports,United States,Rural,Marketer Manager,11235,True,False,True,1,1,1,2,0,0,1,0,1
+0.5940212031814127,0.7770352659529145,0.5766287959093792,49,female,7,Instagram,Sports,United Kingdom,Rural,Software Engineer,16720,True,False,True,0,1,1,1,0,1,1,0,1
+1.1128817500082018,-0.011432786764401043,0.6395272258314018,56,non-binary,5,Instagram,Lifestlye,United States,Urban,Marketer Manager,16906,True,True,True,2,1,0,2,2,0,1,1,1
+0.5940212031814127,-0.7999008394817166,0.3385616202905414,49,male,3,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,16016,False,False,True,1,1,1,1,1,0,0,0,1
+-1.4814209841257435,1.56550331867023,-0.495687985180585,21,female,9,Instagram,Sports,United Kingdom,Urban,Software Engineer,13549,True,False,True,0,1,1,1,2,1,1,0,1
+0.445775332659473,-1.5883688921990322,0.9885120628181072,47,male,1,Facebook,Sports,United Kingdom,Rural,Student,17938,True,False,False,1,0,1,1,0,2,1,0,0
+0.9646358794862621,-1.5883688921990322,-0.29549513295565316,54,female,1,YouTube,Lifestlye,United States,Urban,Student,14141,False,False,True,0,2,0,2,2,2,0,0,1
+-0.07308521416731607,-1.5883688921990322,0.65981704193528,40,non-binary,1,Facebook,Travel,Australia,Urban,Software Engineer,16966,False,True,True,2,0,2,0,2,1,0,1,1
+1.1128817500082018,-0.7999008394817166,1.5322791344020437,56,non-binary,3,Instagram,Sports,United States,Rural,Student,19546,False,False,False,2,1,1,2,0,2,0,0,0
+1.557619361574021,0.3828012395942567,0.10827220751152354,62,male,6,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,15335,False,True,False,1,1,2,1,1,1,0,1,0
+-0.666068696255075,-0.7999008394817166,0.021025998264847166,32,female,3,YouTube,Lifestlye,United States,Urban,Marketer Manager,15077,False,True,False,0,2,0,2,2,0,0,1,0
+1.4093734910520812,1.1712692923115724,0.20160536158936337,60,male,8,Facebook,Lifestlye,Australia,Rural,Marketer Manager,15611,False,False,True,1,0,0,0,0,0,0,0,1
+0.37165239739850314,-1.1941348658403743,1.039574766679534,46,male,2,YouTube,Lifestlye,United States,Sub_Urban,Student,18089,True,True,False,1,2,0,2,1,2,1,1,0
+0.8905129442252921,1.56550331867023,-0.7178614715180516,53,female,9,Facebook,Lifestlye,Australia,Rural,Marketer Manager,12892,False,False,False,0,0,0,0,0,0,0,0,0
+-0.8143145667770147,-0.7999008394817166,0.19010779913049905,30,female,3,Instagram,Travel,Australia,Urban,Student,15577,True,False,True,0,1,2,0,2,2,1,0,1
+0.5940212031814127,-0.011432786764401043,-0.472354696661125,49,female,5,YouTube,Sports,United States,Sub_Urban,Student,13618,False,True,True,0,2,1,2,1,2,0,1,1
+-1.259052178342834,1.1712692923115724,-1.1686335526258795,24,non-binary,8,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,11559,True,False,False,2,2,0,1,1,0,1,0,0
+-0.14720814942828594,-1.1941348658403743,0.564116742645321,39,male,2,Instagram,Lifestlye,Australia,Rural,Marketer Manager,16683,True,True,False,1,1,0,0,0,0,1,1,0
+0.29752946213753323,0.3828012395942567,-1.1862180599159073,45,male,6,YouTube,Travel,United States,Rural,Student,11507,False,True,True,1,2,2,2,0,2,0,1,1
+-1.6296668546476831,-0.011432786764401043,-0.9981990973533024,19,non-binary,5,Facebook,Travel,Australia,Rural,Marketer Manager,12063,False,False,True,2,0,2,0,0,0,0,0,1
+1.3352505557911114,1.56550331867023,-0.4642387702195737,59,female,9,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,13642,True,False,True,0,0,0,1,1,1,1,0,1
+1.557619361574021,-0.011432786764401043,-1.0195034042623745,62,non-binary,5,Facebook,Sports,United States,Sub_Urban,Marketer Manager,12000,False,False,True,2,0,1,2,1,0,0,0,1
+-1.3331751136038037,-1.1941348658403743,-1.258246907084675,23,non-binary,2,Facebook,Sports,United States,Urban,Marketer Manager,11294,False,True,True,2,0,1,2,2,0,0,1,1
+0.29752946213753323,-0.011432786764401043,-0.32119556668723226,45,non-binary,5,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,14065,True,False,False,2,1,0,2,1,1,1,0,0
+0.29752946213753323,-0.4056668131230588,1.0142124965496864,45,male,4,YouTube,Travel,United Kingdom,Urban,Marketer Manager,18014,True,True,True,1,2,2,1,2,0,1,1,1
+1.483496426313051,0.7770352659529145,1.6672064114928338,61,non-binary,7,Facebook,Lifestlye,Australia,Rural,Marketer Manager,19945,True,True,True,2,0,0,0,0,0,1,1,1
+1.483496426313051,0.3828012395942567,-1.1537543541497022,61,male,6,Instagram,Lifestlye,United States,Rural,Student,11603,False,False,True,1,1,0,2,0,2,0,0,1
+-0.2954540199502257,-1.1941348658403743,-1.2487783262361984,37,male,2,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,11322,False,False,True,1,2,2,0,1,0,0,0,1
+0.445775332659473,-0.011432786764401043,0.3182718041866632,47,male,5,YouTube,Lifestlye,Australia,Rural,Marketer Manager,15956,False,False,True,1,2,0,0,0,0,0,0,1
+-0.9625604372989545,0.7770352659529145,-0.8703732558988695,28,female,7,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,12441,False,True,False,0,1,0,1,0,1,0,1,0
+0.29752946213753323,0.7770352659529145,-1.3245269730240106,45,male,7,Instagram,Lifestlye,United States,Sub_Urban,Student,11098,True,False,True,1,1,0,2,1,2,1,0,1
+0.07516065635462366,-0.011432786764401043,0.01967334385792195,42,male,5,Facebook,Travel,Australia,Urban,Student,15073,False,True,False,1,0,2,0,2,2,0,1,0
+1.1128817500082018,1.56550331867023,1.5833418382634705,56,female,9,YouTube,Sports,United States,Sub_Urban,Student,19697,True,False,True,0,2,1,2,1,2,1,0,1
+0.6681441384423826,-0.4056668131230588,1.4551778332073064,50,male,4,YouTube,Sports,United States,Urban,Marketer Manager,19318,False,False,False,1,2,1,2,2,0,0,0,0
+-1.7037897899086532,-0.7999008394817166,1.1745020437703242,18,non-binary,3,Instagram,Travel,United Kingdom,Sub_Urban,Student,18488,False,True,False,2,1,2,1,1,2,0,1,0
+0.2234065268765634,-0.4056668131230588,-0.4152050479685347,44,non-binary,4,YouTube,Sports,United States,Sub_Urban,Software Engineer,13787,True,True,True,2,2,1,2,1,1,1,1,1
+-0.8143145667770147,-0.011432786764401043,-0.9870396984961693,30,male,5,Facebook,Lifestlye,United States,Rural,Student,12096,False,False,True,1,0,0,2,0,2,0,0,1
+1.2611276205301414,0.3828012395942567,-0.9491653751022633,58,female,6,YouTube,Sports,Australia,Sub_Urban,Software Engineer,12208,False,False,True,0,2,1,0,1,1,0,0,1
+-1.5555439193867133,-0.7999008394817166,0.32909303944206486,20,non-binary,3,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,15988,True,False,True,2,1,0,1,1,2,1,0,1
+1.1128817500082018,-1.1941348658403743,-1.6366519774220039,56,female,2,Instagram,Sports,United States,Urban,Student,10175,False,False,True,0,1,1,2,2,2,0,0,1
+-1.3331751136038037,-0.4056668131230588,0.7284642530867347,23,female,4,Facebook,Travel,Australia,Rural,Software Engineer,17169,True,False,False,0,0,2,0,0,1,1,0,0
+-1.184929243081864,-0.011432786764401043,0.33788529308707876,25,non-binary,5,Facebook,Sports,United Kingdom,Urban,Student,16014,True,True,True,2,0,1,1,2,2,1,1,1
+0.2234065268765634,-0.4056668131230588,-1.1321118836388986,44,female,4,YouTube,Sports,United Kingdom,Urban,Student,11667,True,True,True,0,2,1,1,2,2,1,1,1
+-1.110806307820894,-0.7999008394817166,1.3026660488264885,26,non-binary,3,YouTube,Sports,Australia,Rural,Student,18867,True,True,False,2,2,1,0,0,2,1,1,0
+0.9646358794862621,1.1712692923115724,-1.0793583617688152,54,female,8,Instagram,Travel,Australia,Rural,Marketer Manager,11823,False,True,True,0,1,2,0,0,0,0,1,1
+0.6681441384423826,-0.4056668131230588,0.04469745038603843,50,non-binary,4,Facebook,Sports,Australia,Rural,Software Engineer,15147,False,False,False,2,0,1,0,0,1,0,0,0
+1.3352505557911114,-1.1941348658403743,-1.2372807637773342,59,male,2,Facebook,Travel,Australia,Sub_Urban,Student,11356,False,True,True,1,0,2,0,1,2,0,1,1
+1.483496426313051,-1.1941348658403743,-0.6569920232064169,61,non-binary,2,Facebook,Lifestlye,Australia,Rural,Software Engineer,13072,True,True,False,2,0,0,0,0,1,1,1,0
+0.001037721093653793,-1.5883688921990322,-0.593755429682663,41,non-binary,1,YouTube,Sports,United States,Rural,Software Engineer,13259,False,True,True,2,2,1,2,0,1,0,1,1
+-0.666068696255075,-0.4056668131230588,0.40044555940737,32,non-binary,4,Facebook,Travel,United States,Rural,Software Engineer,16199,False,False,False,2,0,2,2,0,1,0,0,0
+0.5940212031814127,1.56550331867023,-1.5111932811796902,49,non-binary,9,Instagram,Travel,United Kingdom,Urban,Student,10546,False,True,False,2,1,2,1,2,2,0,1,0
+0.5940212031814127,0.7770352659529145,0.07310319293146794,49,female,7,Instagram,Sports,United States,Urban,Student,15231,False,False,True,0,1,1,2,2,2,0,0,1
+0.001037721093653793,0.7770352659529145,0.9976424800648525,41,male,7,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,17965,True,True,True,1,2,0,2,1,1,1,1,1
+1.2611276205301414,0.7770352659529145,-0.9914358253186762,58,non-binary,7,YouTube,Travel,United States,Urban,Marketer Manager,12083,True,False,True,2,2,2,2,2,0,1,0,1
+-0.8884375020379846,1.1712692923115724,-1.0059768601931223,29,female,8,Facebook,Sports,Australia,Sub_Urban,Software Engineer,12040,False,True,False,0,0,1,0,1,1,0,1,0
+1.1128817500082018,-1.5883688921990322,-0.16259683747525078,56,male,1,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,14534,True,False,False,1,2,0,1,2,0,1,0,0
+-1.6296668546476831,1.1712692923115724,-1.1033679774917378,19,male,8,Instagram,Travel,United Kingdom,Rural,Software Engineer,11752,False,True,False,1,1,2,1,0,1,0,1,0
+-1.5555439193867133,-0.4056668131230588,1.620539834453914,20,male,4,Facebook,Travel,United Kingdom,Urban,Software Engineer,19807,False,False,True,1,0,2,1,2,1,0,0,1
+0.9646358794862621,-0.4056668131230588,-1.0705661081238014,54,male,4,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,11849,False,False,True,1,1,0,1,1,1,0,0,1
+-0.5178228257331352,-0.4056668131230588,-0.8024023719508775,34,non-binary,4,Facebook,Lifestlye,United States,Urban,Student,12642,True,True,False,2,0,0,2,2,2,1,1,0
+-1.6296668546476831,0.3828012395942567,-1.154768844954896,19,non-binary,6,YouTube,Sports,United States,Rural,Marketer Manager,11600,False,False,True,2,2,1,2,0,0,0,0,1
+-1.6296668546476831,0.7770352659529145,-0.20723443290378288,19,female,7,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,14402,True,False,False,0,0,1,0,1,0,1,0,0
+0.29752946213753323,0.3828012395942567,-0.411147084747759,45,female,6,Facebook,Travel,United Kingdom,Rural,Software Engineer,13799,True,True,True,0,0,2,1,0,1,1,1,1
+-0.07308521416731607,-1.5883688921990322,-1.4868455018550364,40,female,1,Instagram,Lifestlye,United States,Rural,Student,10618,False,True,True,0,1,0,2,0,2,0,1,1
+0.9646358794862621,1.1712692923115724,-1.313029410565146,54,male,8,Instagram,Lifestlye,United States,Sub_Urban,Student,11132,True,False,False,1,1,0,2,1,2,1,0,0
+0.5940212031814127,0.7770352659529145,0.16102572938160692,49,male,7,Facebook,Lifestlye,Australia,Rural,Marketer Manager,15491,True,True,True,1,0,0,0,0,0,1,1,1
+0.6681441384423826,0.3828012395942567,0.26382746430792325,50,non-binary,6,YouTube,Travel,Australia,Rural,Student,15795,False,True,True,2,2,2,0,0,2,0,1,1
+-1.7037897899086532,0.3828012395942567,0.8853721642900596,18,male,6,YouTube,Lifestlye,Australia,Urban,Marketer Manager,17633,True,True,True,1,2,0,0,2,0,1,1,1
+-0.36957695521119555,-0.011432786764401043,-1.1929813319505334,36,male,5,Instagram,Lifestlye,United States,Rural,Marketer Manager,11487,True,False,True,1,1,0,2,0,0,1,0,1
+-1.6296668546476831,0.3828012395942567,0.9580773386622898,19,male,6,YouTube,Travel,United States,Rural,Marketer Manager,17848,False,False,True,1,2,2,2,0,0,0,0,1
+1.483496426313051,1.56550331867023,-0.00196912665288149,61,female,9,Instagram,Sports,Australia,Rural,Student,15009,False,False,False,0,1,1,0,0,2,0,0,0
+0.1492835916155935,1.56550331867023,1.6009263455534983,43,female,9,YouTube,Sports,United Kingdom,Rural,Marketer Manager,19749,True,False,True,0,2,1,1,0,0,1,0,1
+0.5940212031814127,1.1712692923115724,-0.9812909172667371,49,non-binary,8,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,12113,False,False,False,2,0,2,0,1,0,0,0,0
+-1.3331751136038037,1.56550331867023,-1.3427878075175008,23,male,9,Instagram,Lifestlye,Australia,Urban,Software Engineer,11044,False,False,True,1,1,0,0,2,1,0,0,1
+0.5940212031814127,1.1712692923115724,-0.8737548919161826,49,male,8,Instagram,Travel,Australia,Rural,Marketer Manager,12431,True,False,True,1,1,2,0,0,0,1,0,1
+-1.4814209841257435,1.1712692923115724,1.0023767704890907,21,non-binary,8,Facebook,Sports,Australia,Rural,Marketer Manager,17979,True,True,False,2,0,1,0,0,0,1,1,0
+-0.9625604372989545,-1.5883688921990322,-1.1608557897860594,28,male,1,Instagram,Sports,United States,Sub_Urban,Software Engineer,11582,False,False,False,1,1,1,2,1,1,0,0,0
+-0.5178228257331352,-0.011432786764401043,-1.2535126166604367,34,male,5,YouTube,Travel,United Kingdom,Rural,Software Engineer,11308,True,False,True,1,2,2,1,0,1,1,0,1
+1.038758814747232,-0.4056668131230588,-0.03308017801216143,55,female,4,YouTube,Travel,Australia,Sub_Urban,Student,14917,False,True,True,0,2,2,0,1,2,0,1,1
+0.001037721093653793,-1.1941348658403743,1.277641942298372,41,non-binary,2,Instagram,Sports,United Kingdom,Urban,Marketer Manager,18793,False,True,False,2,1,1,1,2,0,0,1,0
+-1.4072980488647737,1.1712692923115724,-1.1480055729202698,22,non-binary,8,YouTube,Travel,United Kingdom,Urban,Student,11620,True,True,False,2,2,2,1,2,2,1,1,0
+0.7422670737033524,-0.7999008394817166,0.8414108960649901,51,non-binary,3,Instagram,Sports,United Kingdom,Rural,Student,17503,True,False,False,2,1,1,1,0,2,1,0,0
+-1.3331751136038037,-0.4056668131230588,-0.0841428818735883,23,non-binary,4,Facebook,Travel,Australia,Rural,Software Engineer,14766,False,True,False,2,0,2,0,0,1,0,1,0
+-0.14720814942828594,0.7770352659529145,0.11740262475826874,39,female,7,Instagram,Travel,United States,Rural,Student,15362,False,False,True,0,1,2,2,0,2,0,0,1
+-0.9625604372989545,1.56550331867023,0.0599148124639471,28,female,9,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,15192,False,False,True,0,0,2,0,1,0,0,0,1
+-0.5919457609941051,-1.1941348658403743,0.5434887629397115,33,male,2,YouTube,Sports,United Kingdom,Rural,Software Engineer,16622,False,False,True,1,2,1,1,0,1,0,0,1
+0.6681441384423826,-0.7999008394817166,0.3646002176238518,50,male,3,Facebook,Travel,United Kingdom,Rural,Marketer Manager,16093,True,True,True,1,0,2,1,0,0,1,1,1
+-1.110806307820894,-0.4056668131230588,0.5712181782816784,26,male,4,YouTube,Sports,United States,Urban,Marketer Manager,16704,False,True,True,1,2,1,2,2,0,0,1,1
+-1.3331751136038037,-1.5883688921990322,-1.6620142475518516,23,male,1,Instagram,Sports,Australia,Rural,Software Engineer,10100,True,False,False,1,1,1,0,0,1,1,0,0
+-0.5919457609941051,0.7770352659529145,0.5553244890003071,33,female,7,YouTube,Travel,United Kingdom,Urban,Marketer Manager,16657,True,False,False,0,2,2,1,2,0,1,0,0
+0.37165239739850314,-1.1941348658403743,0.2908805524464276,46,non-binary,2,Instagram,Travel,United States,Rural,Software Engineer,15875,False,False,False,2,1,2,2,0,1,0,0,0
+-1.5555439193867133,-0.011432786764401043,-0.25153386473058365,20,female,5,Instagram,Sports,United Kingdom,Urban,Marketer Manager,14271,True,True,True,0,1,1,1,2,0,1,1,1
+-0.2954540199502257,-1.5883688921990322,-1.615685834114663,37,male,1,Facebook,Sports,United States,Rural,Software Engineer,10237,True,False,False,1,0,1,2,0,1,1,0,0
+0.8905129442252921,-0.7999008394817166,0.7477395783854189,53,female,3,Facebook,Lifestlye,United States,Urban,Student,17226,False,True,True,0,0,0,2,2,2,0,1,1
+-0.36957695521119555,-1.1941348658403743,1.0202994413808497,36,non-binary,2,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,18032,True,False,True,2,0,1,0,1,0,1,0,1
+0.1492835916155935,-1.5883688921990322,0.06870706610896099,43,non-binary,1,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,15218,True,True,True,2,0,0,1,2,1,1,1,1
+-1.5555439193867133,0.7770352659529145,-0.3347221107564844,20,female,7,YouTube,Lifestlye,Australia,Urban,Marketer Manager,14025,False,False,False,0,2,0,0,2,0,0,0,0
+-0.36957695521119555,-0.011432786764401043,0.3578369455892257,36,female,5,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,16073,False,True,True,0,2,0,1,2,0,0,1,1
+-0.2954540199502257,-1.5883688921990322,-0.8362187321240079,37,female,1,YouTube,Travel,Australia,Rural,Marketer Manager,12542,False,True,True,0,2,2,0,0,0,0,1,1
+0.5940212031814127,0.3828012395942567,-1.1760731518639682,49,male,6,Instagram,Travel,United Kingdom,Rural,Software Engineer,11537,False,True,False,1,1,2,1,0,1,0,1,0
+-1.259052178342834,-0.011432786764401043,-1.440855252019579,24,female,5,YouTube,Sports,Australia,Rural,Student,10754,False,True,True,0,2,1,0,0,2,0,1,1
+1.2611276205301414,-0.7999008394817166,0.8052273906797406,58,female,3,YouTube,Lifestlye,United States,Sub_Urban,Student,17396,False,True,False,0,2,0,2,1,2,0,1,0
+0.6681441384423826,0.7770352659529145,0.9496232486190073,50,female,7,YouTube,Travel,United Kingdom,Sub_Urban,Student,17823,False,True,True,0,2,2,1,1,2,0,1,1
+1.1870046852691716,1.56550331867023,0.1664363470093078,57,non-binary,9,Facebook,Travel,United Kingdom,Urban,Software Engineer,15507,True,False,False,2,0,2,1,2,1,1,0,0
+1.1128817500082018,1.56550331867023,-0.2637077543929106,56,non-binary,9,YouTube,Travel,United States,Sub_Urban,Student,14235,True,False,True,2,2,2,2,1,2,1,0,1
+-0.4436998904721654,1.56550331867023,-1.513222262790078,35,male,9,Instagram,Travel,Australia,Urban,Software Engineer,10540,False,False,True,1,1,2,0,2,1,0,0,1
+1.1870046852691716,-1.1941348658403743,0.16745083781450168,57,male,2,Facebook,Travel,United Kingdom,Urban,Marketer Manager,15510,True,False,False,1,0,2,1,2,0,1,0,0
+-1.7037897899086532,-0.7999008394817166,1.1653716265235792,18,non-binary,3,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,18461,True,True,True,2,1,0,1,2,0,1,1,1
+-0.9625604372989545,0.7770352659529145,0.9844540995973315,28,non-binary,7,YouTube,Lifestlye,Australia,Sub_Urban,Student,17926,False,False,False,2,2,0,0,1,2,0,0,0
+0.29752946213753323,-0.011432786764401043,0.03928683275833757,45,non-binary,5,Facebook,Lifestlye,United States,Rural,Software Engineer,15131,True,True,True,2,0,0,2,0,1,1,1,1
+0.07516065635462366,-1.1941348658403743,1.2451782365321669,42,female,2,Instagram,Lifestlye,Australia,Sub_Urban,Marketer Manager,18697,False,True,False,0,1,0,0,1,0,0,1,0
+-0.07308521416731607,-0.7999008394817166,-1.31404390137034,40,female,3,YouTube,Sports,Australia,Urban,Software Engineer,11129,True,True,True,0,2,1,0,2,1,1,1,1
+0.5198982679204428,0.3828012395942567,-0.6323060802800317,48,non-binary,6,Instagram,Lifestlye,Australia,Urban,Software Engineer,13145,False,False,True,2,1,0,0,2,1,0,0,1
+0.445775332659473,0.7770352659529145,1.196482677882859,47,female,7,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,18553,True,True,True,0,1,2,1,1,0,1,1,1
+1.3352505557911114,1.56550331867023,-0.437862009284532,59,female,9,Instagram,Lifestlye,United States,Urban,Software Engineer,13720,True,False,False,0,1,0,2,2,1,1,0,0
+0.8163900089643223,-1.5883688921990322,1.5667718217786366,52,male,1,YouTube,Sports,United States,Urban,Marketer Manager,19648,True,False,False,1,2,1,2,2,0,1,0,0
+-1.259052178342834,0.7770352659529145,-0.32051923948376965,24,non-binary,7,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,14067,False,False,False,2,2,2,0,1,0,0,0,0
+-0.5919457609941051,1.1712692923115724,-0.27723429846216274,33,non-binary,8,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,14195,True,False,False,2,1,0,1,1,0,1,0,0
+0.1492835916155935,-0.7999008394817166,1.64285863216818,43,female,3,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,19873,True,False,False,0,0,0,0,1,1,1,0,0
+-1.6296668546476831,-0.4056668131230588,1.43015372667919,19,non-binary,4,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,19244,False,True,True,2,0,0,1,2,0,0,1,1
+-1.7037897899086532,0.3828012395942567,0.7663385764806406,18,male,6,YouTube,Travel,United Kingdom,Urban,Software Engineer,17281,False,True,True,1,2,2,1,2,1,0,1,1
+-0.8884375020379846,0.7770352659529145,-0.8473781309811409,29,male,7,YouTube,Travel,United Kingdom,Rural,Marketer Manager,12509,True,False,True,1,2,2,1,0,0,1,0,1
+-1.4072980488647737,-0.4056668131230588,0.00039801855923763627,22,male,4,YouTube,Sports,United Kingdom,Rural,Marketer Manager,15016,True,True,True,1,2,1,1,0,0,1,1,1
+0.9646358794862621,1.1712692923115724,0.5133922023856254,54,non-binary,8,YouTube,Travel,United States,Sub_Urban,Student,16533,True,False,True,2,2,2,2,1,2,1,0,1
+0.5940212031814127,-0.011432786764401043,-0.09733126234110914,49,non-binary,5,YouTube,Travel,United Kingdom,Rural,Student,14727,True,True,False,2,2,2,1,0,2,1,1,0
+-1.110806307820894,-1.5883688921990322,-1.4655411949459642,26,non-binary,1,Facebook,Lifestlye,United Kingdom,Urban,Student,10681,False,True,True,2,0,0,1,2,2,0,1,1
+1.2611276205301414,-0.4056668131230588,-0.3661713257174956,58,non-binary,4,YouTube,Travel,Australia,Rural,Software Engineer,13932,True,True,False,2,2,2,0,0,1,1,1,0
+0.8163900089643223,-0.7999008394817166,0.18435901790106687,52,non-binary,3,Instagram,Lifestlye,Australia,Urban,Software Engineer,15560,True,True,True,2,1,0,0,2,1,1,1,1
+-0.36957695521119555,1.56550331867023,-0.3377655831720661,36,male,9,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,14016,False,True,False,1,1,0,2,1,0,0,1,0
+-0.5919457609941051,1.1712692923115724,0.7859520653810562,33,female,8,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,17339,True,True,False,0,0,2,0,1,0,1,1,0
+-1.5555439193867133,-1.5883688921990322,-1.4526909780801747,20,male,1,Instagram,Sports,United Kingdom,Urban,Marketer Manager,10719,True,True,False,1,1,1,1,2,0,1,1,0
+-0.2954540199502257,0.3828012395942567,-1.6708065011968656,37,non-binary,6,Facebook,Sports,Australia,Rural,Marketer Manager,10074,True,True,True,2,0,1,0,0,0,1,1,1
+0.001037721093653793,1.56550331867023,1.5116511546964342,41,male,9,Facebook,Travel,United States,Sub_Urban,Software Engineer,19485,False,True,True,1,0,2,2,1,1,0,1,1
+0.6681441384423826,0.7770352659529145,-0.29008451532795226,50,non-binary,7,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,14157,False,True,True,2,1,1,0,1,0,0,1,1
+0.001037721093653793,-0.4056668131230588,1.1822798066101443,41,non-binary,4,YouTube,Lifestlye,Australia,Rural,Marketer Manager,18511,True,True,True,2,2,0,0,0,0,1,1,1
+-0.9625604372989545,-1.5883688921990322,-0.9691170276044102,28,male,1,Instagram,Lifestlye,United States,Rural,Student,12149,True,True,False,1,1,0,2,0,2,1,1,0
+-1.184929243081864,-1.1941348658403743,1.5654191673717115,25,non-binary,2,Instagram,Travel,United States,Urban,Marketer Manager,19644,False,True,False,2,1,2,2,2,0,0,1,0
+0.8905129442252921,-0.011432786764401043,1.6002500183500357,53,female,5,Facebook,Sports,United Kingdom,Rural,Marketer Manager,19747,True,False,False,0,0,1,1,0,0,1,0,0
+1.038758814747232,-0.011432786764401043,0.5742616506972601,55,non-binary,5,Instagram,Sports,Australia,Rural,Marketer Manager,16713,True,True,False,2,1,1,0,0,0,1,1,0
+1.1870046852691716,1.1712692923115724,-0.2731763352413871,57,female,8,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,14207,False,True,True,0,0,0,1,0,1,0,1,1
+-0.2954540199502257,0.3828012395942567,0.7189956722382581,37,female,6,YouTube,Travel,Australia,Urban,Student,17141,False,True,False,0,2,2,0,2,2,0,1,0
+0.8163900089643223,1.1712692923115724,1.229960874454258,52,non-binary,8,YouTube,Sports,Australia,Urban,Marketer Manager,18652,False,True,True,2,2,1,0,2,0,0,1,1
+0.07516065635462366,-1.1941348658403743,1.3740185687917934,42,male,2,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,19078,True,True,False,1,2,2,1,1,0,1,1,0
+0.8163900089643223,-0.7999008394817166,-0.36481867131057044,52,female,3,Instagram,Sports,Australia,Urban,Student,13936,True,True,False,0,1,1,0,2,2,1,1,0
+0.07516065635462366,0.3828012395942567,1.451458033588262,42,male,6,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,19307,True,False,False,1,0,0,0,1,0,1,0,0
+0.37165239739850314,-0.7999008394817166,-1.3323047358638305,46,female,3,YouTube,Lifestlye,Australia,Rural,Software Engineer,11075,True,False,True,0,2,0,0,0,1,1,0,1
+-0.4436998904721654,0.3828012395942567,-0.38510848741444864,35,non-binary,6,Facebook,Travel,United States,Sub_Urban,Marketer Manager,13876,False,False,True,2,0,2,2,1,0,0,0,1
+1.6317422968349908,0.3828012395942567,-0.13520558573501518,63,non-binary,6,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,14615,True,True,False,2,0,0,1,1,1,1,1,0
+-0.4436998904721654,-1.1941348658403743,0.7609279588529397,35,female,2,YouTube,Sports,United States,Rural,Software Engineer,17265,True,True,False,0,2,1,2,0,1,1,1,0
+-1.6296668546476831,0.7770352659529145,0.46131500771900463,19,non-binary,7,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,16379,False,True,False,2,2,0,1,1,0,0,1,0
+0.8163900089643223,-1.1941348658403743,1.3875451128610456,52,female,2,Facebook,Travel,United Kingdom,Urban,Student,19118,False,False,True,0,0,2,1,2,2,0,0,1
+-0.5919457609941051,0.3828012395942567,-0.12269353247095693,33,non-binary,6,YouTube,Travel,Australia,Urban,Software Engineer,14652,True,True,True,2,2,2,0,2,1,1,1,1
+1.2611276205301414,-1.5883688921990322,0.6009765752340331,58,male,1,Facebook,Travel,United Kingdom,Urban,Student,16792,False,True,True,1,0,2,1,2,2,0,1,1
+0.8905129442252921,-0.7999008394817166,1.4311682174843838,53,non-binary,3,Facebook,Sports,United States,Urban,Marketer Manager,19247,False,False,False,2,0,1,2,2,0,0,0,0
+0.6681441384423826,-1.1941348658403743,0.8255172067836188,50,male,2,YouTube,Sports,United States,Sub_Urban,Software Engineer,17456,True,False,True,1,2,1,2,1,1,1,0,1
+-1.4814209841257435,0.7770352659529145,-0.11525393323286826,21,non-binary,7,Instagram,Sports,United States,Sub_Urban,Marketer Manager,14674,True,True,False,2,1,1,2,1,0,1,1,0
+0.6681441384423826,-0.4056668131230588,-1.5128840991883468,50,male,4,YouTube,Sports,United Kingdom,Rural,Student,10541,True,True,True,1,2,1,1,0,2,1,1,1
+-0.7401916315160448,1.1712692923115724,-0.9650590643836346,31,non-binary,8,Instagram,Sports,United States,Sub_Urban,Marketer Manager,12161,True,True,False,2,1,1,2,1,0,1,1,0
+-0.2213310846892558,0.3828012395942567,-0.9346243402278173,38,male,6,Facebook,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,12251,False,True,False,1,0,0,1,1,0,0,1,0
+-0.2954540199502257,-0.4056668131230588,1.43015372667919,37,female,4,Facebook,Sports,United States,Sub_Urban,Software Engineer,19244,False,False,True,0,0,1,2,1,1,0,0,1
+-1.184929243081864,-0.011432786764401043,-0.15076111141465515,25,female,5,Instagram,Sports,United States,Rural,Marketer Manager,14569,True,True,False,0,1,1,2,0,0,1,1,0
+-1.259052178342834,1.56550331867023,-0.7679096845742845,24,male,9,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,12744,True,True,False,1,0,0,1,2,0,1,1,0
+-1.5555439193867133,0.7770352659529145,0.347015710333824,20,non-binary,7,Instagram,Sports,United States,Sub_Urban,Marketer Manager,16041,False,False,False,2,1,1,2,1,0,0,0,0
+-0.5178228257331352,1.56550331867023,-0.11491576963113695,34,male,9,Instagram,Travel,Australia,Rural,Software Engineer,14675,True,True,True,1,1,2,0,0,1,1,1,1
+0.6681441384423826,0.7770352659529145,-1.168295389024148,50,non-binary,7,Facebook,Sports,United Kingdom,Rural,Student,11560,True,True,False,2,0,1,1,0,2,1,1,0
+-0.8884375020379846,-1.5883688921990322,-1.3022081753097445,29,female,1,Instagram,Sports,United Kingdom,Rural,Student,11164,True,False,True,0,1,1,1,0,2,1,0,1
+-0.14720814942828594,1.1712692923115724,0.13667795005695305,39,non-binary,8,YouTube,Travel,United Kingdom,Urban,Marketer Manager,15419,True,False,True,2,2,2,1,2,0,1,0,1
+-0.14720814942828594,-0.4056668131230588,-0.7753492838123732,39,female,4,YouTube,Travel,Australia,Sub_Urban,Software Engineer,12722,False,True,False,0,2,2,0,1,1,0,1,0
+1.6317422968349908,-0.7999008394817166,-1.5368937149112691,63,non-binary,3,Facebook,Travel,United Kingdom,Rural,Marketer Manager,10470,True,False,True,2,0,2,1,0,0,1,0,1
+0.445775332659473,0.7770352659529145,1.5532452777093846,47,non-binary,7,Facebook,Travel,United States,Urban,Student,19608,False,False,False,2,0,2,2,2,2,0,0,0
+1.038758814747232,-0.7999008394817166,-1.1994064403834281,55,non-binary,3,Instagram,Sports,United States,Rural,Software Engineer,11468,True,True,True,2,1,1,2,0,1,1,1,1
+1.038758814747232,1.1712692923115724,0.9841159359956002,55,male,8,Instagram,Travel,United States,Rural,Student,17925,True,False,False,1,1,2,2,0,2,1,0,0
+1.557619361574021,0.3828012395942567,-1.4225944175260885,62,male,6,Instagram,Travel,United Kingdom,Rural,Student,10808,False,True,True,1,1,2,1,0,2,0,1,1
+-1.184929243081864,-0.011432786764401043,1.1322315935539113,25,female,5,Instagram,Lifestlye,United States,Rural,Software Engineer,18363,True,True,False,0,1,0,2,0,1,1,1,0
+0.2234065268765634,-0.4056668131230588,0.576290632307648,44,female,4,YouTube,Travel,United Kingdom,Rural,Software Engineer,16719,False,True,False,0,2,2,1,0,1,0,1,0
+0.2234065268765634,1.1712692923115724,0.01967334385792195,44,male,8,YouTube,Travel,United States,Urban,Marketer Manager,15073,True,True,False,1,2,2,2,2,0,1,1,0
+0.7422670737033524,1.1712692923115724,1.0135361693462237,51,female,8,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,18012,True,False,False,0,0,0,0,1,0,1,0,0
+-0.2213310846892558,-1.5883688921990322,-1.1395514828769873,38,male,1,Instagram,Lifestlye,Australia,Sub_Urban,Student,11645,True,True,True,1,1,0,0,1,2,1,1,1
+0.445775332659473,1.56550331867023,1.0936809429565426,47,non-binary,9,Instagram,Sports,Australia,Sub_Urban,Software Engineer,18249,True,True,True,2,1,1,0,1,1,1,1,1
+0.6681441384423826,-0.011432786764401043,-1.31404390137034,50,female,5,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,11129,True,True,False,0,0,0,0,1,1,1,1,0
+0.29752946213753323,-0.4056668131230588,-1.238295254582528,45,female,4,Instagram,Sports,United Kingdom,Urban,Marketer Manager,11353,False,True,True,0,1,1,1,2,0,0,1,1
+1.7058652320959606,0.3828012395942567,-1.436459125197072,64,male,6,Instagram,Lifestlye,United States,Urban,Student,10767,False,False,False,1,1,0,2,2,2,0,0,0
+0.6681441384423826,0.3828012395942567,-0.37868337898155385,50,female,6,Instagram,Lifestlye,Australia,Urban,Student,13895,True,False,False,0,1,0,0,2,2,1,0,0
+-1.4072980488647737,-1.1941348658403743,1.3050331940386075,22,female,2,Instagram,Sports,United Kingdom,Rural,Marketer Manager,18874,True,False,True,0,1,1,1,0,0,1,0,1
+-0.36957695521119555,1.1712692923115724,-0.5278135273450588,36,non-binary,8,Instagram,Lifestlye,Australia,Rural,Software Engineer,13454,False,True,True,2,1,0,0,0,1,0,1,1
+-1.4814209841257435,0.7770352659529145,0.7825704293637432,21,female,7,Facebook,Sports,Australia,Rural,Marketer Manager,17329,False,False,False,0,0,1,0,0,0,0,0,0
+0.8163900089643223,-1.5883688921990322,-1.0905177606259482,52,non-binary,1,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,11790,True,False,True,2,1,0,1,1,0,1,0,1
+-0.5178228257331352,-0.011432786764401043,1.573873257414994,34,male,5,Facebook,Travel,United Kingdom,Rural,Marketer Manager,19669,True,True,False,1,0,2,1,0,0,1,1,0
+1.483496426313051,0.3828012395942567,-1.3965558201927781,61,female,6,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,10885,False,False,True,0,1,0,2,1,0,0,0,1
+0.29752946213753323,-0.4056668131230588,0.9195266880649212,45,non-binary,4,YouTube,Sports,United States,Rural,Software Engineer,17734,True,True,True,2,2,1,2,0,1,1,1,1
+0.445775332659473,-1.1941348658403743,-0.3749635793625095,47,male,2,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,13906,False,False,True,1,2,0,0,1,0,0,0,1
+0.37165239739850314,-0.4056668131230588,-0.17679970874796552,46,female,4,YouTube,Sports,Australia,Rural,Software Engineer,14492,True,False,True,0,2,1,0,0,1,1,0,1
+1.6317422968349908,-1.5883688921990322,1.5945012371206035,63,male,1,YouTube,Sports,United States,Rural,Marketer Manager,19730,False,False,True,1,2,1,2,0,0,0,0,1
+-1.3331751136038037,0.7770352659529145,-0.9948174613359894,23,female,7,Facebook,Travel,United States,Urban,Student,12073,False,False,False,0,0,2,2,2,2,0,0,0
+0.8163900089643223,-1.1941348658403743,-1.5903235639848152,52,male,2,Facebook,Travel,United Kingdom,Rural,Software Engineer,10312,True,True,True,1,0,2,1,0,1,1,1,1
+1.2611276205301414,-1.1941348658403743,0.42411701152856124,58,male,2,Instagram,Sports,United States,Rural,Student,16269,False,True,True,1,1,1,2,0,2,0,1,1
+0.9646358794862621,1.56550331867023,0.10218526268036007,54,non-binary,9,YouTube,Lifestlye,United States,Urban,Marketer Manager,15317,True,False,False,2,2,0,2,2,0,1,0,0
+0.001037721093653793,-0.011432786764401043,-1.421918090322626,41,male,5,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,10810,True,True,False,1,0,1,0,1,0,1,1,0
+0.37165239739850314,-1.1941348658403743,0.6175465917188669,46,female,2,Instagram,Sports,United States,Urban,Marketer Manager,16841,True,False,False,0,1,1,2,2,0,1,0,0
+1.6317422968349908,1.56550331867023,-1.0086821690069727,63,female,9,Instagram,Lifestlye,Australia,Urban,Software Engineer,12032,True,False,True,0,1,0,0,2,1,1,0,1
+0.5198982679204428,1.56550331867023,1.5840181654669332,48,non-binary,9,Facebook,Lifestlye,United States,Sub_Urban,Student,19699,False,False,True,2,0,0,2,1,2,0,0,1
+0.8163900089643223,-1.5883688921990322,0.7149377090174824,52,female,1,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,17129,True,False,False,0,2,0,1,0,1,1,0,0
+0.6681441384423826,-0.7999008394817166,-0.7810980650418053,50,female,3,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,12705,True,False,False,0,1,0,2,1,1,1,0,0
+-0.2213310846892558,-0.4056668131230588,1.2759511242897155,38,female,4,YouTube,Sports,United States,Rural,Marketer Manager,18788,True,False,False,0,2,1,2,0,0,1,0,0
+0.5940212031814127,0.7770352659529145,-0.9697933548078729,49,male,7,YouTube,Sports,United States,Rural,Student,12147,True,True,False,1,2,1,2,0,2,1,1,0
+-0.07308521416731607,-0.4056668131230588,-1.4878599926602303,40,male,4,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,10615,False,True,True,1,2,2,0,1,0,0,1,1
+0.6681441384423826,-1.1941348658403743,-1.3755896768854374,50,female,2,Instagram,Sports,United Kingdom,Urban,Software Engineer,10947,True,False,True,0,1,1,1,2,1,1,0,1
+-1.5555439193867133,0.7770352659529145,0.2239241593036294,20,non-binary,7,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,15677,False,True,True,2,2,0,2,1,0,0,1,1
+-0.4436998904721654,0.3828012395942567,-0.12303169607268824,35,male,6,Instagram,Travel,Australia,Rural,Student,14651,False,False,True,1,1,2,0,0,2,0,0,1
+0.07516065635462366,-0.7999008394817166,0.9641642834934533,42,non-binary,3,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,17866,False,True,True,2,2,0,1,1,0,0,1,1
+1.3352505557911114,0.3828012395942567,-1.0151072774398675,59,female,6,Instagram,Sports,Australia,Sub_Urban,Student,12013,True,True,False,0,1,1,0,1,2,1,1,0
+0.5198982679204428,0.3828012395942567,-0.445639772124352,48,female,6,YouTube,Travel,Australia,Rural,Student,13697,True,True,True,0,2,2,0,0,2,1,1,1
+-1.5555439193867133,-0.011432786764401043,-1.5301304428766431,20,male,5,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,10490,True,False,False,1,0,0,1,2,0,1,0,0
+1.1870046852691716,-0.4056668131230588,-0.22481894019381066,57,female,4,YouTube,Travel,United States,Sub_Urban,Software Engineer,14350,True,True,False,0,2,2,2,1,1,1,1,0
+1.6317422968349908,-1.5883688921990322,-0.8747693827213765,63,male,1,YouTube,Travel,Australia,Rural,Marketer Manager,12428,False,False,False,1,2,2,0,0,0,0,0,0
+0.001037721093653793,0.3828012395942567,-0.009408725890970172,41,female,6,Instagram,Sports,Australia,Rural,Software Engineer,14987,False,False,True,0,1,1,0,0,1,0,0,1
+0.5940212031814127,-1.1941348658403743,1.2573521261944938,49,female,2,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,18733,True,False,False,0,1,0,2,1,1,1,0,0
+1.7058652320959606,-0.7999008394817166,1.5096221730860464,64,male,3,YouTube,Travel,United States,Urban,Marketer Manager,19479,True,True,True,1,2,2,2,2,0,1,1,1
+-0.14720814942828594,1.1712692923115724,1.6266267792850775,39,male,8,Facebook,Travel,United Kingdom,Sub_Urban,Software Engineer,19825,True,True,False,1,0,2,1,1,1,1,1,0
+-0.07308521416731607,0.3828012395942567,-0.03206568720696752,40,male,6,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,14920,True,True,True,1,0,0,1,2,1,1,1,1
+-1.6296668546476831,-0.7999008394817166,-0.7063639090591872,19,female,3,Instagram,Travel,United Kingdom,Urban,Marketer Manager,12926,True,False,False,0,1,2,1,2,0,1,0,0
+0.2234065268765634,0.7770352659529145,1.531602807198581,44,female,7,Facebook,Travel,United States,Urban,Marketer Manager,19544,True,False,True,0,0,2,2,2,0,1,0,1
+1.3352505557911114,-0.4056668131230588,0.766676740082372,59,non-binary,4,YouTube,Travel,Australia,Urban,Marketer Manager,17282,True,True,False,2,2,2,0,2,0,1,1,0
+-1.6296668546476831,1.56550331867023,-0.21602668654879678,19,male,9,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,14376,False,False,False,1,1,0,0,1,1,0,0,0
+0.1492835916155935,-0.011432786764401043,1.5133419727050907,43,female,5,YouTube,Lifestlye,United Kingdom,Rural,Student,19490,False,True,False,0,2,0,1,0,2,0,1,0
+-0.5178228257331352,-0.7999008394817166,-0.04965019449699532,34,female,3,Instagram,Lifestlye,United States,Rural,Software Engineer,14868,False,True,False,0,1,0,2,0,1,0,1,0
+1.1870046852691716,-1.1941348658403743,0.666580313969906,57,male,2,Instagram,Lifestlye,Australia,Rural,Student,16986,False,True,True,1,1,0,0,0,2,0,1,1
+0.6681441384423826,-1.1941348658403743,0.6246480273552244,50,non-binary,2,Instagram,Sports,United Kingdom,Rural,Marketer Manager,16862,True,True,True,2,1,1,1,0,0,1,1,1
+-1.110806307820894,-0.7999008394817166,-0.2001329972674255,26,male,3,Instagram,Travel,Australia,Rural,Student,14423,True,False,True,1,1,2,0,0,2,1,0,1
+1.4093734910520812,-1.1941348658403743,0.6273533361690748,60,non-binary,2,Facebook,Lifestlye,Australia,Rural,Marketer Manager,16870,True,True,False,2,0,0,0,0,0,1,1,0
+1.1128817500082018,-0.4056668131230588,1.0632462188007255,56,female,4,YouTube,Travel,United States,Sub_Urban,Marketer Manager,18159,True,True,False,0,2,2,2,1,0,1,1,0
+0.37165239739850314,-1.1941348658403743,-0.9948174613359894,46,non-binary,2,YouTube,Travel,United States,Urban,Student,12073,True,True,False,2,2,2,2,2,2,1,1,0
+1.3352505557911114,1.56550331867023,0.3906388149571622,59,female,9,YouTube,Sports,Australia,Rural,Marketer Manager,16170,False,True,False,0,2,1,0,0,0,0,1,0
+0.1492835916155935,-1.1941348658403743,-1.458777922911338,43,male,2,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,10701,True,True,False,1,1,0,1,1,2,1,1,0
+0.8163900089643223,1.56550331867023,1.0476906931210854,52,male,9,Facebook,Lifestlye,United States,Rural,Marketer Manager,18113,False,True,False,1,0,0,2,0,0,0,1,0
+0.07516065635462366,0.3828012395942567,0.6121359740911662,42,male,6,YouTube,Travel,Australia,Rural,Software Engineer,16825,True,True,True,1,2,2,0,0,1,1,1,1
+0.001037721093653793,-1.5883688921990322,0.9645024470951846,41,non-binary,1,Facebook,Lifestlye,United States,Urban,Software Engineer,17867,False,False,True,2,0,0,2,2,1,0,0,1
+-0.8143145667770147,-0.4056668131230588,-0.2539010099427028,30,female,4,Instagram,Travel,United States,Urban,Marketer Manager,14264,True,False,True,0,1,2,2,2,0,1,0,1
+-1.259052178342834,-1.5883688921990322,0.9986569708700463,24,male,1,YouTube,Travel,United States,Urban,Marketer Manager,17968,False,False,True,1,2,2,2,2,0,0,0,1
+0.8905129442252921,0.3828012395942567,1.0588500919782184,53,male,6,Facebook,Sports,Australia,Rural,Student,18146,True,False,True,1,0,1,0,0,2,1,0,1
+1.557619361574021,-0.4056668131230588,0.933729559337636,62,female,4,Instagram,Sports,United Kingdom,Rural,Software Engineer,17776,True,True,True,0,1,1,1,0,1,1,1,1
+-0.2954540199502257,-0.7999008394817166,1.1981734958915156,37,male,3,Facebook,Sports,United Kingdom,Rural,Student,18558,True,False,True,1,0,1,1,0,2,1,0,1
+-1.7037897899086532,-0.7999008394817166,1.2526178357702555,18,female,3,YouTube,Travel,United Kingdom,Urban,Marketer Manager,18719,True,False,True,0,2,2,1,2,0,1,0,1
+-1.184929243081864,1.56550331867023,-0.04356324966583185,25,female,9,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,14886,False,False,False,0,2,0,2,1,0,0,0,0
+1.6317422968349908,0.3828012395942567,-0.3651568349123017,63,female,6,Instagram,Sports,Australia,Rural,Student,13935,True,True,False,0,1,1,0,0,2,1,1,0
+-0.5919457609941051,1.56550331867023,-0.13385293132808995,33,female,9,Instagram,Lifestlye,United States,Rural,Marketer Manager,14619,False,False,False,0,1,0,2,0,0,0,0,0
+-0.7401916315160448,-0.011432786764401043,0.059576648862215795,31,female,5,Instagram,Sports,United Kingdom,Rural,Software Engineer,15191,True,False,False,0,1,1,1,0,1,1,0,0
+-0.8884375020379846,-1.1941348658403743,0.6290441541777313,29,non-binary,2,Facebook,Sports,United Kingdom,Sub_Urban,Student,16875,False,True,False,2,0,1,1,1,2,0,1,0
+-0.07308521416731607,1.1712692923115724,0.9607826474761403,40,male,8,Facebook,Travel,Australia,Rural,Software Engineer,17856,True,False,False,1,0,2,0,0,1,1,0,0
+-0.666068696255075,-0.011432786764401043,0.1305910052257896,32,non-binary,5,Facebook,Sports,United States,Sub_Urban,Software Engineer,15401,True,True,False,2,0,1,2,1,1,1,1,0
+0.29752946213753323,-1.1941348658403743,-0.6739002032929821,45,male,2,Instagram,Sports,United Kingdom,Rural,Software Engineer,13022,False,False,True,1,1,1,1,0,1,0,0,1
+0.7422670737033524,-0.4056668131230588,0.24455213900923894,51,non-binary,4,YouTube,Travel,Australia,Sub_Urban,Student,15738,True,True,True,2,2,2,0,1,2,1,1,1
+-1.6296668546476831,1.56550331867023,0.3277403850351397,19,female,9,YouTube,Lifestlye,United States,Rural,Marketer Manager,15984,True,False,False,0,2,0,2,0,0,1,0,0
+0.5940212031814127,-0.4056668131230588,-1.0972810326605744,49,male,4,Facebook,Sports,United States,Urban,Software Engineer,11770,False,False,True,1,0,1,2,2,1,0,0,1
+-0.07308521416731607,-0.4056668131230588,1.6753223379343851,40,male,4,Facebook,Travel,United Kingdom,Urban,Software Engineer,19969,True,False,True,1,0,2,1,2,1,1,0,1
+-0.14720814942828594,-1.1941348658403743,1.3439220082377075,39,non-binary,2,YouTube,Sports,United Kingdom,Urban,Software Engineer,18989,False,True,True,2,2,1,1,2,1,0,1,1
+0.07516065635462366,0.3828012395942567,-0.6086346281588404,42,non-binary,6,YouTube,Travel,United States,Urban,Marketer Manager,13215,True,False,True,2,2,2,2,2,0,1,0,1
+-0.14720814942828594,-1.1941348658403743,0.5678365422643653,39,male,2,Facebook,Lifestlye,United States,Rural,Marketer Manager,16694,False,True,True,1,0,0,2,0,0,0,1,1
+-0.14720814942828594,0.7770352659529145,-0.6894557289726221,39,non-binary,7,Facebook,Lifestlye,United Kingdom,Urban,Student,12976,False,True,False,2,0,0,1,2,2,0,1,0
+1.3352505557911114,-0.7999008394817166,-0.4321132280550999,59,non-binary,3,YouTube,Travel,United States,Sub_Urban,Marketer Manager,13737,False,True,True,2,2,2,2,1,0,0,1,1
+-1.3331751136038037,-0.7999008394817166,1.653003540220119,23,non-binary,3,Instagram,Travel,United Kingdom,Urban,Student,19903,False,True,False,2,1,2,1,2,2,0,1,0
+-0.666068696255075,-0.011432786764401043,-1.4415315792230416,32,female,5,Facebook,Travel,United States,Urban,Student,10752,True,False,False,0,0,2,2,2,2,1,0,0
+1.4093734910520812,-0.7999008394817166,-1.225106874115007,60,female,3,YouTube,Lifestlye,United Kingdom,Urban,Student,11392,True,False,False,0,2,0,1,2,2,1,0,0
+0.9646358794862621,-1.1941348658403743,0.5999620844288392,54,non-binary,2,YouTube,Sports,Australia,Rural,Student,16789,False,False,True,2,2,1,0,0,2,0,0,1
+0.6681441384423826,1.56550331867023,-1.4668938493528894,50,non-binary,9,YouTube,Lifestlye,United Kingdom,Urban,Student,10677,True,True,False,2,2,0,1,2,2,1,1,0
+-1.184929243081864,-1.1941348658403743,-1.660323429543195,25,female,2,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,10105,True,False,False,0,2,2,1,1,1,1,0,0
+1.483496426313051,-1.1941348658403743,-0.08853900869609525,61,female,2,Instagram,Travel,Australia,Urban,Marketer Manager,14753,True,True,False,0,1,2,0,2,0,1,1,0
+1.483496426313051,1.1712692923115724,-1.037764238755865,61,male,8,YouTube,Lifestlye,United States,Urban,Software Engineer,11946,False,True,False,1,2,0,2,2,1,0,1,0
+-1.4072980488647737,1.56550331867023,0.17894840027336603,22,male,9,Facebook,Travel,Australia,Urban,Student,15544,True,True,True,1,0,2,0,2,2,1,1,1
+1.1128817500082018,0.7770352659529145,-1.3255414638292045,56,female,7,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,11095,True,False,False,0,1,0,1,1,0,1,0,0
+-1.4814209841257435,-0.7999008394817166,0.6662421503681747,21,non-binary,3,YouTube,Travel,United States,Urban,Software Engineer,16985,False,False,False,2,2,2,2,2,1,0,0,0
+-1.3331751136038037,1.56550331867023,-1.0932230694397986,23,non-binary,9,Instagram,Sports,Australia,Sub_Urban,Software Engineer,11782,True,True,False,2,1,1,0,1,1,1,1,0
+1.557619361574021,-0.7999008394817166,-0.16022969226313166,62,non-binary,3,Facebook,Sports,United States,Sub_Urban,Student,14541,False,False,False,2,0,1,2,1,2,0,0,0
+0.5940212031814127,-0.011432786764401043,-0.5944317568861257,49,non-binary,5,YouTube,Travel,United States,Urban,Software Engineer,13257,False,False,True,2,2,2,2,2,1,0,0,1
+0.445775332659473,1.56550331867023,0.4051798498316082,47,male,9,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,16213,False,True,False,1,0,0,0,1,1,0,1,0
+1.7058652320959606,-0.7999008394817166,-0.049312030895264015,64,female,3,YouTube,Sports,United States,Rural,Software Engineer,14869,True,True,False,0,2,1,2,0,1,1,1,0
+0.8163900089643223,0.7770352659529145,-1.1679572254224169,52,non-binary,7,YouTube,Lifestlye,Australia,Urban,Software Engineer,11561,True,False,False,2,2,0,0,2,1,1,0,0
+1.1870046852691716,-1.5883688921990322,-0.3411472191893792,57,male,1,YouTube,Travel,United Kingdom,Urban,Software Engineer,14006,False,True,False,1,2,2,1,2,1,0,1,0
+-0.5919457609941051,-0.4056668131230588,1.6408296505577922,33,non-binary,4,YouTube,Lifestlye,United States,Sub_Urban,Student,19867,False,True,False,2,2,0,2,1,2,0,1,0
+-0.8143145667770147,-0.4056668131230588,1.453825178800381,30,female,4,YouTube,Sports,United Kingdom,Sub_Urban,Student,19314,False,False,False,0,2,1,1,1,2,0,0,0
+1.3352505557911114,0.7770352659529145,-0.34960130923266175,59,male,7,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,13981,False,False,True,1,1,0,1,2,1,0,0,1
+0.445775332659473,1.1712692923115724,1.5143564635102846,47,female,8,YouTube,Lifestlye,United States,Rural,Student,19493,False,True,False,0,2,0,2,0,2,0,1,0
+-0.36957695521119555,-1.5883688921990322,0.22561497731228594,36,female,1,YouTube,Travel,Australia,Sub_Urban,Student,15682,False,False,True,0,2,2,0,1,2,0,0,1
+-0.5178228257331352,-0.011432786764401043,0.2594313374854163,34,male,5,Instagram,Travel,United States,Sub_Urban,Marketer Manager,15782,True,True,True,1,1,2,2,1,0,1,1,1
+-0.36957695521119555,0.7770352659529145,-1.3769423312923625,36,male,7,Instagram,Travel,United Kingdom,Rural,Software Engineer,10943,False,True,False,1,1,2,1,0,1,0,1,0
+0.29752946213753323,-0.4056668131230588,-0.1571862198475499,45,male,4,Instagram,Sports,United Kingdom,Rural,Student,14550,False,False,True,1,1,1,1,0,2,0,0,1
+0.1492835916155935,-0.4056668131230588,1.3939702212939404,43,male,4,Instagram,Sports,Australia,Urban,Student,19137,False,True,False,1,1,1,0,2,2,0,1,0
+0.9646358794862621,-0.4056668131230588,-1.4929324466861997,54,male,4,Instagram,Travel,United States,Rural,Software Engineer,10600,True,True,True,1,1,2,2,0,1,1,1,1
+0.1492835916155935,0.3828012395942567,0.46030051691381074,43,male,6,Instagram,Travel,United Kingdom,Urban,Marketer Manager,16376,True,True,False,1,1,2,1,2,0,1,1,0
+-0.07308521416731607,0.7770352659529145,1.5535834413111158,40,male,7,YouTube,Sports,United Kingdom,Rural,Software Engineer,19609,True,False,True,1,2,1,1,0,1,1,0,1
+-1.110806307820894,-1.1941348658403743,-1.180469278686475,26,non-binary,2,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,11524,True,False,True,2,2,1,1,1,0,1,0,1
+-0.8884375020379846,-0.011432786764401043,-0.42230648360489204,29,female,5,Facebook,Sports,Australia,Urban,Software Engineer,13766,False,False,False,0,0,1,0,2,1,0,0,0
+-1.7037897899086532,-0.4056668131230588,-1.6112897072921561,18,male,4,YouTube,Sports,United Kingdom,Urban,Software Engineer,10250,True,True,True,1,2,1,1,2,1,1,1,1
+-1.7037897899086532,-0.7999008394817166,1.5965302187309913,18,non-binary,3,YouTube,Travel,United Kingdom,Urban,Software Engineer,19736,False,True,True,2,2,2,1,2,1,0,1,1
+1.7058652320959606,0.7770352659529145,-1.6694538467899402,64,non-binary,7,Instagram,Sports,United States,Rural,Software Engineer,10078,False,False,True,2,1,1,2,0,1,0,0,1
+0.7422670737033524,0.3828012395942567,-0.6397456795181203,51,non-binary,6,Instagram,Travel,United States,Sub_Urban,Marketer Manager,13123,False,False,True,2,1,2,2,1,0,0,0,1
+0.5940212031814127,0.7770352659529145,1.3777383684108377,49,female,7,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,19089,False,False,True,0,2,0,1,2,0,0,0,1
+0.07516065635462366,-0.011432786764401043,0.6929570749049477,42,male,5,Facebook,Lifestlye,United Kingdom,Urban,Student,17064,False,True,False,1,0,0,1,2,2,0,1,0
+1.1870046852691716,0.3828012395942567,1.1504924280474018,57,non-binary,6,Instagram,Sports,United States,Urban,Software Engineer,18417,False,False,True,2,1,1,2,2,1,0,0,1
+1.557619361574021,-0.011432786764401043,-1.2869908132318357,62,female,5,YouTube,Lifestlye,Australia,Urban,Marketer Manager,11209,True,True,True,0,2,0,0,2,0,1,1,1
+-1.7037897899086532,0.7770352659529145,0.04672643199642625,18,female,7,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,15153,True,False,False,0,2,0,0,1,0,1,0,0
+-0.5919457609941051,-1.1941348658403743,-0.03950528644505621,33,female,2,Facebook,Lifestlye,Australia,Rural,Marketer Manager,14898,True,True,False,0,0,0,0,0,0,1,1,0
+1.1128817500082018,-0.011432786764401043,-0.9593102831542024,56,non-binary,5,Facebook,Sports,Australia,Sub_Urban,Software Engineer,12178,True,True,False,2,0,1,0,1,1,1,1,0
+-1.4072980488647737,0.3828012395942567,0.8775944014502396,22,male,6,Instagram,Sports,Australia,Urban,Student,17610,True,False,True,1,1,1,0,2,2,1,0,1
+-0.14720814942828594,0.3828012395942567,1.312134629674965,39,non-binary,6,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,18895,False,True,True,2,0,0,0,1,0,0,1,1
+0.37165239739850314,-0.011432786764401043,-0.8355424049205452,46,non-binary,5,YouTube,Travel,Australia,Urban,Software Engineer,12544,True,False,True,2,2,2,0,2,1,1,0,1
+-1.5555439193867133,0.7770352659529145,0.17150880103527733,20,male,7,YouTube,Lifestlye,Australia,Rural,Marketer Manager,15522,True,True,True,1,2,0,0,0,0,1,1,1
+-0.8884375020379846,1.1712692923115724,-0.8943828716217921,29,male,8,Facebook,Sports,United States,Rural,Marketer Manager,12370,True,True,False,1,0,1,2,0,0,1,1,0
+0.1492835916155935,0.7770352659529145,-0.5863158304445744,43,male,7,Facebook,Sports,Australia,Rural,Student,13281,False,False,False,1,0,1,0,0,2,0,0,0
+-0.5919457609941051,-0.011432786764401043,-0.10308004357054132,33,female,5,Facebook,Sports,Australia,Urban,Marketer Manager,14710,False,True,True,0,0,1,0,2,0,0,1,1
+0.9646358794862621,-1.5883688921990322,-1.5849129463571143,54,male,1,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,10328,False,False,True,1,0,0,0,1,0,0,0,1
+-0.14720814942828594,-0.011432786764401043,0.19078412633396166,39,non-binary,5,Instagram,Travel,United Kingdom,Rural,Software Engineer,15579,True,False,True,2,1,2,1,0,1,1,0,1
+0.37165239739850314,-1.1941348658403743,-0.2660748996050297,46,male,2,Facebook,Sports,United States,Urban,Software Engineer,14228,True,False,True,1,0,1,2,2,1,1,0,1
+-0.7401916315160448,-0.011432786764401043,0.6016529024374957,31,non-binary,5,Instagram,Sports,United States,Urban,Student,16794,True,True,False,2,1,1,2,2,2,1,1,0
+0.29752946213753323,-0.011432786764401043,-1.6552509755172256,45,female,5,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,10120,True,True,False,0,2,0,2,1,1,1,1,0
+-1.4072980488647737,-1.1941348658403743,0.586435540359587,22,non-binary,2,Facebook,Travel,Australia,Rural,Software Engineer,16749,True,True,True,2,0,2,0,0,1,1,1,1
+1.7058652320959606,-0.011432786764401043,-1.369840895656005,64,non-binary,5,Instagram,Lifestlye,Australia,Urban,Student,10964,False,False,False,2,1,0,0,2,2,0,0,0
+0.445775332659473,-0.4056668131230588,-0.26742755401195495,47,male,4,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,14224,True,False,True,1,0,1,1,1,0,1,0,1
+1.6317422968349908,-1.5883688921990322,-0.4530793713624407,63,male,1,YouTube,Travel,United States,Rural,Student,13675,False,True,True,1,2,2,2,0,2,0,1,1
+-1.4072980488647737,-0.7999008394817166,0.2296729405330616,22,non-binary,3,YouTube,Travel,Australia,Sub_Urban,Software Engineer,15694,True,True,False,2,2,2,0,1,1,1,1,0
+-0.8884375020379846,-1.5883688921990322,-0.9938029705307954,29,male,1,YouTube,Sports,United States,Sub_Urban,Student,12076,False,False,True,1,2,1,2,1,2,0,0,1
+-0.5919457609941051,-0.011432786764401043,0.6256625181604183,33,female,5,Facebook,Travel,United Kingdom,Urban,Marketer Manager,16865,False,True,False,0,0,2,1,2,0,0,1,0
+0.1492835916155935,-0.4056668131230588,0.2124265968447651,43,female,4,Facebook,Travel,United Kingdom,Urban,Student,15643,False,False,True,0,0,2,1,2,2,0,0,1
+0.1492835916155935,0.7770352659529145,1.1866759334326513,43,male,7,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,18524,False,True,False,1,1,0,1,2,1,0,1,0
+-0.2213310846892558,-0.011432786764401043,0.07919013776263141,38,female,5,YouTube,Sports,United States,Sub_Urban,Software Engineer,15249,True,False,True,0,2,1,2,1,1,1,0,1
+1.1128817500082018,-0.4056668131230588,-1.2508073078465862,56,male,4,Facebook,Sports,Australia,Urban,Student,11316,True,True,False,1,0,1,0,2,2,1,1,0
+0.8905129442252921,-1.1941348658403743,-1.2913869400543427,53,non-binary,2,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,11196,True,True,True,2,2,1,0,1,0,1,1,1
+0.6681441384423826,-0.4056668131230588,-0.6238519902367491,50,non-binary,4,YouTube,Sports,United Kingdom,Sub_Urban,Student,13170,False,False,True,2,2,1,1,1,2,0,0,1
+0.445775332659473,-1.1941348658403743,1.5576414045318914,47,female,2,Instagram,Sports,Australia,Urban,Marketer Manager,19621,True,False,False,0,1,1,0,2,0,1,0,0
+0.9646358794862621,1.1712692923115724,-1.575782529110369,54,male,8,Instagram,Travel,United Kingdom,Rural,Marketer Manager,10355,True,False,True,1,1,2,1,0,0,1,0,1
+-0.07308521416731607,-0.7999008394817166,1.590443273899828,40,male,3,Instagram,Lifestlye,United States,Rural,Student,19718,True,True,False,1,1,0,2,0,2,1,1,0
+-1.0366833725599243,1.56550331867023,-1.6863620268765056,27,female,9,Instagram,Sports,United Kingdom,Rural,Marketer Manager,10028,True,False,False,0,1,1,1,0,0,1,0,0
+-1.4072980488647737,-0.4056668131230588,-1.3532708791711714,22,non-binary,4,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,11013,False,False,True,2,2,0,2,1,1,0,0,1
+0.8905129442252921,0.3828012395942567,1.3540669162896466,53,female,6,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,19019,False,True,True,0,1,0,1,1,2,0,1,1
+0.7422670737033524,-0.011432786764401043,-1.0113874778208232,51,non-binary,5,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,12024,True,False,True,2,1,2,0,1,0,1,0,1
+0.5198982679204428,-1.5883688921990322,1.1751783709737869,48,male,1,Instagram,Sports,Australia,Urban,Software Engineer,18490,True,False,True,1,1,1,0,2,1,1,0,1
+-1.0366833725599243,1.56550331867023,0.2787066627841006,27,non-binary,9,Instagram,Travel,United Kingdom,Sub_Urban,Student,15839,True,False,False,2,1,2,1,1,2,1,0,0
+-0.36957695521119555,-1.5883688921990322,0.26247480990099803,36,female,1,YouTube,Sports,Australia,Urban,Software Engineer,15791,False,True,True,0,2,1,0,2,1,0,1,1
+0.5940212031814127,1.1712692923115724,-1.440855252019579,49,male,8,Instagram,Travel,Australia,Urban,Software Engineer,10754,False,True,True,1,1,2,0,2,1,0,1,1
+-1.7037897899086532,1.56550331867023,1.334453427389231,18,female,9,YouTube,Lifestlye,Australia,Rural,Software Engineer,18961,False,True,True,0,2,0,0,0,1,0,1,1
+-1.4072980488647737,1.56550331867023,-0.4327895552585625,22,female,9,Facebook,Sports,United States,Rural,Marketer Manager,13735,True,False,False,0,0,1,2,0,0,1,0,0
+1.557619361574021,-1.5883688921990322,-1.277184068781628,62,non-binary,1,YouTube,Lifestlye,Australia,Rural,Student,11238,False,True,True,2,2,0,0,0,2,0,1,1
+-1.4814209841257435,-1.1941348658403743,-1.051290782825117,21,female,2,YouTube,Lifestlye,United States,Urban,Student,11906,False,False,False,0,2,0,2,2,2,0,0,0
+-0.5919457609941051,-1.5883688921990322,0.8062418814849345,33,non-binary,1,Instagram,Travel,United Kingdom,Urban,Marketer Manager,17399,False,False,True,2,1,2,1,2,0,0,0,1
+0.001037721093653793,-1.1941348658403743,0.9962898256579272,41,male,2,Facebook,Sports,Australia,Urban,Student,17961,False,False,False,1,0,1,0,2,2,0,0,0
+-0.5919457609941051,1.1712692923115724,1.6032934907656173,33,non-binary,8,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,19756,False,True,True,2,0,0,0,1,1,0,1,1
+-1.6296668546476831,-0.011432786764401043,1.4862888845665863,19,male,5,Facebook,Travel,Australia,Urban,Student,19410,True,True,True,1,0,2,0,2,2,1,1,1
+0.29752946213753323,0.7770352659529145,-0.13993987615925343,45,non-binary,7,Facebook,Sports,United Kingdom,Rural,Marketer Manager,14601,True,False,False,2,0,1,1,0,0,1,0,0
+0.5940212031814127,-1.1941348658403743,1.5332936252072376,49,female,2,YouTube,Sports,United States,Rural,Software Engineer,19549,True,False,True,0,2,1,2,0,1,1,0,1
+0.2234065268765634,1.1712692923115724,-1.2021117491972786,44,non-binary,8,Facebook,Lifestlye,United States,Urban,Marketer Manager,11460,True,True,True,2,0,0,2,2,0,1,1,1
+-0.2954540199502257,0.3828012395942567,0.8975460539523865,37,non-binary,6,YouTube,Sports,Australia,Urban,Software Engineer,17669,False,True,True,2,2,1,0,2,1,0,1,1
+0.001037721093653793,1.1712692923115724,-1.216990947673456,41,male,8,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,11416,True,True,False,1,2,0,1,0,1,1,1,0
+-0.8884375020379846,-1.5883688921990322,0.930347923320323,29,female,1,YouTube,Sports,United Kingdom,Urban,Student,17766,True,False,True,0,2,1,1,2,2,1,0,1
+0.8163900089643223,-1.5883688921990322,-1.2129329844526802,52,non-binary,1,Facebook,Travel,United Kingdom,Rural,Software Engineer,11428,True,True,False,2,0,2,1,0,1,1,1,0
+0.6681441384423826,0.7770352659529145,-0.21535035934533417,50,female,7,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,14378,False,True,False,0,1,0,1,1,0,0,1,0
+0.6681441384423826,1.1712692923115724,0.850203149710004,50,non-binary,8,Instagram,Lifestlye,United Kingdom,Rural,Student,17529,True,True,False,2,1,0,1,0,2,1,1,0
+1.4093734910520812,-0.7999008394817166,-0.182886653579129,60,non-binary,3,Facebook,Sports,United States,Sub_Urban,Marketer Manager,14474,False,False,True,2,0,1,2,1,0,0,0,1
+0.9646358794862621,-0.011432786764401043,-0.6573301868081481,54,female,5,Instagram,Sports,United States,Urban,Software Engineer,13071,False,True,False,0,1,1,2,2,1,0,1,0
+-0.8884375020379846,-1.5883688921990322,-1.5081498087641085,29,non-binary,1,Instagram,Lifestlye,United States,Urban,Marketer Manager,10555,False,False,False,2,1,0,2,2,0,0,0,0
+-1.5555439193867133,0.7770352659529145,1.1944536962724712,20,female,7,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,18547,True,False,True,0,2,1,0,1,0,1,0,1
+-1.7037897899086532,-0.011432786764401043,-1.1672808982189542,18,non-binary,5,YouTube,Travel,United Kingdom,Urban,Software Engineer,11563,False,False,False,2,2,2,1,2,1,0,0,0
+0.6681441384423826,1.1712692923115724,-1.3441404619244262,50,male,8,Facebook,Sports,Australia,Sub_Urban,Student,11040,True,True,False,1,0,1,0,1,2,1,1,0
+1.1870046852691716,1.1712692923115724,-0.7875231734747001,57,female,8,Facebook,Travel,United Kingdom,Urban,Marketer Manager,12686,True,True,True,0,0,2,1,2,0,1,1,1
+-1.0366833725599243,1.56550331867023,-0.8324989325049635,27,non-binary,9,Instagram,Travel,United States,Rural,Software Engineer,12553,True,True,True,2,1,2,2,0,1,1,1,1
+1.4093734910520812,0.7770352659529145,-1.0942375602449925,60,non-binary,7,YouTube,Travel,Australia,Urban,Student,11779,False,False,False,2,2,2,0,2,2,0,0,0
+1.483496426313051,-1.5883688921990322,-1.6704683375951341,61,male,1,Facebook,Travel,United States,Rural,Student,10075,False,True,True,1,0,2,2,0,2,0,1,1
+0.37165239739850314,-0.7999008394817166,-0.23293486663536195,46,female,3,Facebook,Travel,United Kingdom,Rural,Student,14326,True,False,True,0,0,2,1,0,2,1,0,1
+-0.8143145667770147,1.1712692923115724,0.2773540083771754,30,non-binary,8,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,15835,False,True,True,2,0,1,1,1,0,0,1,1
+-0.8884375020379846,-0.7999008394817166,0.01426272623022109,29,male,3,Facebook,Travel,United Kingdom,Urban,Marketer Manager,15057,False,True,False,1,0,2,1,2,0,0,1,0
+0.5198982679204428,1.1712692923115724,-0.9014843072581494,48,non-binary,8,Facebook,Sports,United States,Sub_Urban,Marketer Manager,12349,False,True,False,2,0,1,2,1,0,0,1,0
+1.6317422968349908,-1.5883688921990322,-0.7581029401240766,63,female,1,Facebook,Travel,United Kingdom,Urban,Student,12773,True,True,True,0,0,2,1,2,2,1,1,1
+-1.6296668546476831,-0.011432786764401043,-0.9309045406087729,19,non-binary,5,Instagram,Lifestlye,United States,Rural,Marketer Manager,12262,False,False,False,2,1,0,2,0,0,0,0,0
+0.8163900089643223,-0.4056668131230588,-0.6039003377346022,52,non-binary,4,YouTube,Travel,Australia,Rural,Software Engineer,13229,False,False,True,2,2,2,0,0,1,0,0,1
+-0.07308521416731607,-0.011432786764401043,-1.563270475846311,40,non-binary,5,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,10392,True,False,True,2,2,0,1,2,0,1,0,1
+-0.5178228257331352,1.1712692923115724,-1.3211453370066975,34,non-binary,8,Facebook,Travel,United Kingdom,Urban,Marketer Manager,11108,False,False,True,2,0,2,1,2,0,0,0,1
+0.1492835916155935,-0.4056668131230588,-0.220760976973035,43,male,4,YouTube,Travel,United Kingdom,Sub_Urban,Student,14362,True,True,True,1,2,2,1,1,2,1,1,1
+-1.184929243081864,-0.4056668131230588,0.05856215805702188,25,male,4,YouTube,Travel,Australia,Urban,Marketer Manager,15188,False,False,True,1,2,2,0,2,0,0,0,1
+0.37165239739850314,-0.7999008394817166,1.2806854147139537,46,female,3,YouTube,Lifestlye,United Kingdom,Urban,Software Engineer,18802,False,False,False,0,2,0,1,2,1,0,0,0
+0.1492835916155935,0.7770352659529145,0.01426272623022109,43,male,7,Facebook,Lifestlye,United States,Urban,Student,15057,False,False,False,1,0,0,2,2,2,0,0,0
+-1.0366833725599243,-0.7999008394817166,-0.3438525280032296,27,male,3,Facebook,Travel,United States,Sub_Urban,Software Engineer,13998,False,True,False,1,0,2,2,1,1,0,1,0
+0.1492835916155935,-0.7999008394817166,1.3016515580212944,43,female,3,YouTube,Sports,United Kingdom,Urban,Student,18864,False,False,False,0,2,1,1,2,2,0,0,0
+0.7422670737033524,-0.011432786764401043,0.5245516012427585,51,male,5,YouTube,Travel,United Kingdom,Rural,Student,16566,False,False,True,1,2,2,1,0,2,0,0,1
+1.2611276205301414,-0.011432786764401043,-0.4524030441589781,58,male,5,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,13677,True,True,True,1,0,0,0,1,0,1,1,1
+-1.259052178342834,0.3828012395942567,0.2641656279096546,24,female,6,Instagram,Travel,Australia,Sub_Urban,Software Engineer,15796,False,True,False,0,1,2,0,1,1,0,1,0
+-1.4814209841257435,1.1712692923115724,0.4559043900913038,21,female,8,YouTube,Lifestlye,Australia,Rural,Student,16363,False,False,False,0,2,0,0,0,2,0,0,0
+1.557619361574021,0.3828012395942567,1.0510723291383983,62,female,6,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,18123,False,False,True,0,1,0,1,0,0,0,0,1
+-0.9625604372989545,-1.5883688921990322,1.0845505257097974,28,non-binary,1,YouTube,Lifestlye,Australia,Rural,Student,18222,True,True,True,2,2,0,0,0,2,1,1,1
+0.37165239739850314,1.1712692923115724,0.9046474895887439,46,non-binary,8,Instagram,Travel,Australia,Urban,Student,17690,True,False,True,2,1,2,0,2,2,1,0,1
+0.8905129442252921,1.1712692923115724,-1.2224015653011568,53,female,8,Instagram,Lifestlye,United States,Rural,Student,11400,True,True,False,0,1,0,2,0,2,1,1,0
+0.07516065635462366,1.56550331867023,-0.3191665850768444,42,female,9,Instagram,Lifestlye,Australia,Urban,Student,14071,False,False,True,0,1,0,0,2,2,0,0,1
+-0.2213310846892558,1.56550331867023,1.2827143963243415,38,female,9,Facebook,Travel,United States,Sub_Urban,Student,18808,False,False,True,0,0,2,2,1,2,0,0,1
+0.8905129442252921,-1.1941348658403743,-0.7537068133015697,53,non-binary,2,Instagram,Lifestlye,United States,Sub_Urban,Student,12786,True,False,False,2,1,0,2,1,2,1,0,0
+-1.0366833725599243,-1.1941348658403743,0.7284642530867347,27,non-binary,2,Instagram,Travel,Australia,Rural,Marketer Manager,17169,True,False,False,2,1,2,0,0,0,1,0,0
+0.9646358794862621,-0.7999008394817166,-1.4016282742187478,54,male,3,Instagram,Lifestlye,United States,Urban,Student,10870,True,False,False,1,1,0,2,2,2,1,0,0
+-1.110806307820894,-1.5883688921990322,-0.27689613486043146,26,male,1,YouTube,Sports,United Kingdom,Rural,Software Engineer,14196,False,True,True,1,2,1,1,0,1,0,1,1
+0.001037721093653793,-0.4056668131230588,1.5518926233024593,41,female,4,Instagram,Sports,United Kingdom,Rural,Marketer Manager,19604,True,True,True,0,1,1,1,0,0,1,1,1
+0.8163900089643223,-0.4056668131230588,-0.769600502582941,52,non-binary,4,YouTube,Lifestlye,Australia,Urban,Software Engineer,12739,False,False,False,2,2,0,0,2,1,0,0,0
+0.8163900089643223,1.56550331867023,-1.3779568220975564,52,non-binary,9,Instagram,Sports,United Kingdom,Rural,Student,10940,False,False,True,2,1,1,1,0,2,0,0,1
+0.8905129442252921,1.56550331867023,-1.5808549831363388,53,non-binary,9,Instagram,Travel,United States,Sub_Urban,Software Engineer,10340,False,False,True,2,1,2,2,1,1,0,0,1
+-0.4436998904721654,1.56550331867023,0.8140196443247545,35,female,9,Facebook,Sports,United Kingdom,Rural,Student,17422,True,True,True,0,0,1,1,0,2,1,1,1
+1.1128817500082018,0.7770352659529145,-0.29820044176950355,56,male,7,YouTube,Lifestlye,Australia,Urban,Student,14133,False,True,False,1,2,0,0,2,2,0,1,0
+0.5940212031814127,-1.1941348658403743,-1.472980794184053,49,female,2,Instagram,Lifestlye,Australia,Urban,Marketer Manager,10659,True,True,False,0,1,0,0,2,0,1,1,0
+0.001037721093653793,-0.011432786764401043,1.6019408363586922,41,male,5,YouTube,Travel,United States,Sub_Urban,Marketer Manager,19752,True,True,True,1,2,2,2,1,0,1,1,1
+-0.07308521416731607,-0.4056668131230588,-0.5267990365398649,40,male,4,YouTube,Lifestlye,Australia,Urban,Student,13457,True,True,True,1,2,0,0,2,2,1,1,1
+0.5940212031814127,1.1712692923115724,1.6344045421248974,49,female,8,Facebook,Travel,United Kingdom,Urban,Marketer Manager,19848,True,True,True,0,0,2,1,2,0,1,1,1
+0.9646358794862621,-1.1941348658403743,-0.6897938925743533,54,male,2,Facebook,Sports,Australia,Sub_Urban,Software Engineer,12975,False,True,True,1,0,1,0,1,1,0,1,1
+-0.8884375020379846,0.3828012395942567,1.429139235873996,29,male,6,Facebook,Sports,United States,Rural,Marketer Manager,19241,False,True,False,1,0,1,2,0,0,0,1,0
+-0.8143145667770147,-0.011432786764401043,-1.5426424961407015,30,non-binary,5,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,10453,False,False,False,2,0,2,0,1,0,0,0,0
+-0.07308521416731607,-1.1941348658403743,1.650636395008,40,male,2,Facebook,Travel,United Kingdom,Rural,Software Engineer,19896,False,True,True,1,0,2,1,0,1,0,1,1
+0.07516065635462366,-1.5883688921990322,1.071700308844008,42,female,1,Facebook,Lifestlye,United States,Sub_Urban,Marketer Manager,18184,True,True,True,0,0,0,2,1,0,1,1,1
+0.8163900089643223,1.1712692923115724,0.14445571289677303,52,female,8,Facebook,Sports,United Kingdom,Rural,Student,15442,True,True,False,0,0,1,1,0,2,1,1,0
+1.2611276205301414,-1.1941348658403743,-1.4192127815087756,58,male,2,Facebook,Travel,United States,Sub_Urban,Software Engineer,10818,True,True,True,1,0,2,2,1,1,1,1,1
+0.445775332659473,0.7770352659529145,-0.04965019449699532,47,non-binary,7,Instagram,Sports,Australia,Rural,Student,14868,True,False,False,2,1,1,0,0,2,1,0,0
+-0.5178228257331352,1.56550331867023,-1.6917726445042063,34,non-binary,9,YouTube,Travel,United States,Sub_Urban,Software Engineer,10012,False,True,True,2,2,2,2,1,1,0,1,1
+-0.2954540199502257,1.56550331867023,0.9171595428528021,37,male,9,Facebook,Sports,United States,Rural,Student,17727,True,False,False,1,0,1,2,0,2,1,0,0
+0.07516065635462366,1.1712692923115724,-1.3847200941321824,42,male,8,Facebook,Lifestlye,Australia,Sub_Urban,Student,10920,False,False,True,1,0,0,0,1,2,0,0,1
+-0.14720814942828594,1.56550331867023,-0.03206568720696752,39,female,9,YouTube,Sports,United Kingdom,Urban,Marketer Manager,14920,True,False,True,0,2,1,1,2,0,1,0,1
+-0.8143145667770147,-1.1941348658403743,-0.8781510187386895,30,male,2,Instagram,Sports,Australia,Rural,Student,12418,True,True,False,1,1,1,0,0,2,1,1,0
+-0.36957695521119555,0.3828012395942567,1.5187525903327914,36,non-binary,6,YouTube,Sports,United States,Sub_Urban,Marketer Manager,19506,True,True,False,2,2,1,2,1,0,1,1,0
+0.8905129442252921,-0.4056668131230588,0.4937787134852098,53,male,4,YouTube,Sports,Australia,Rural,Software Engineer,16475,True,True,True,1,2,1,0,0,1,1,1,1
+-0.8884375020379846,-0.4056668131230588,-1.0137546230329424,29,female,4,Facebook,Sports,United States,Rural,Student,12017,False,False,True,0,0,1,2,0,2,0,0,1
+1.2611276205301414,-0.011432786764401043,0.994937171251002,58,female,5,YouTube,Lifestlye,Australia,Sub_Urban,Student,17957,False,False,False,0,2,0,0,1,2,0,0,0
+-0.36957695521119555,-0.7999008394817166,1.4896705205838994,36,female,3,YouTube,Travel,Australia,Rural,Software Engineer,19420,False,False,False,0,2,2,0,0,1,0,0,0
+-0.8884375020379846,-1.5883688921990322,-0.07535062822857441,29,female,1,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,14792,False,False,True,0,0,1,1,1,1,0,0,1
+-1.110806307820894,1.1712692923115724,0.6138267920998226,26,female,8,Facebook,Lifestlye,United States,Urban,Student,16830,True,True,True,0,0,0,2,2,2,1,1,1
+-1.259052178342834,-0.011432786764401043,-0.8727404011109887,24,male,5,Facebook,Sports,United Kingdom,Rural,Software Engineer,12434,True,True,False,1,0,1,1,0,1,1,1,0
+0.29752946213753323,-0.7999008394817166,-0.7259773979596028,45,male,3,Facebook,Sports,United States,Urban,Marketer Manager,12868,False,True,False,1,0,1,2,2,0,0,1,0
+-0.7401916315160448,0.7770352659529145,-1.2095513484353673,31,male,7,YouTube,Travel,Australia,Rural,Software Engineer,11438,False,False,False,1,2,2,0,0,1,0,0,0
+0.5198982679204428,0.7770352659529145,-0.4977169667909728,48,male,7,YouTube,Sports,United States,Rural,Software Engineer,13543,True,False,False,1,2,1,2,0,1,1,0,0
+-0.36957695521119555,-1.5883688921990322,-1.09356123304153,36,female,1,Instagram,Lifestlye,United Kingdom,Rural,Student,11781,True,True,False,0,1,0,1,0,2,1,1,0
+1.7058652320959606,1.56550331867023,0.4491411180566777,64,non-binary,9,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,16343,False,True,True,2,1,0,1,1,0,0,1,1
+-0.5919457609941051,-1.1941348658403743,-0.9305663770070416,33,male,2,YouTube,Travel,United Kingdom,Urban,Software Engineer,12263,False,False,True,1,2,2,1,2,1,0,0,1
+-1.4072980488647737,-0.011432786764401043,-1.624478087759677,22,non-binary,5,Instagram,Sports,United States,Rural,Marketer Manager,10211,False,True,False,2,1,1,2,0,0,0,1,0
+0.8163900089643223,-0.011432786764401043,1.2458545637356293,52,male,5,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,18699,True,True,True,1,2,0,1,1,0,1,1,1
+-0.8884375020379846,1.1712692923115724,0.38691901533811784,29,male,8,Instagram,Sports,United Kingdom,Rural,Marketer Manager,16159,False,False,True,1,1,1,1,0,0,0,0,1
+0.07516065635462366,1.1712692923115724,0.6804450216408895,42,non-binary,8,Facebook,Sports,United Kingdom,Sub_Urban,Student,17027,False,False,False,2,0,1,1,1,2,0,0,0
+-0.2213310846892558,0.7770352659529145,-1.5838984555519204,38,female,7,Instagram,Sports,Australia,Rural,Software Engineer,10331,False,False,True,0,1,1,0,0,1,0,0,1
+0.8905129442252921,0.7770352659529145,0.6239717001517617,53,male,7,Facebook,Travel,Australia,Urban,Student,16860,False,True,True,1,0,2,0,2,2,0,1,1
+-0.07308521416731607,0.3828012395942567,1.0243574046016255,40,male,6,Facebook,Sports,United States,Urban,Software Engineer,18044,False,False,True,1,0,1,2,2,1,0,0,1
+-0.5919457609941051,0.3828012395942567,1.0666278548180383,33,male,6,Facebook,Lifestlye,United States,Rural,Software Engineer,18169,True,True,False,1,0,0,2,0,1,1,1,0
+1.1128817500082018,1.56550331867023,1.2603955986100754,56,non-binary,9,Facebook,Sports,United Kingdom,Sub_Urban,Student,18742,False,True,False,2,0,1,1,1,2,0,1,0
+1.557619361574021,0.3828012395942567,0.2384651941780755,62,female,6,Instagram,Lifestlye,Australia,Rural,Marketer Manager,15720,True,False,True,0,1,0,0,0,0,1,0,1
+1.3352505557911114,-1.1941348658403743,1.392617566887015,59,non-binary,2,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,19133,False,True,True,2,2,1,1,1,0,0,1,1
+1.1128817500082018,-1.1941348658403743,-1.4499856692663242,56,non-binary,2,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,10727,False,False,True,2,0,0,1,0,1,0,0,1
+-0.7401916315160448,-0.011432786764401043,-0.013466689111745818,31,female,5,Instagram,Lifestlye,Australia,Sub_Urban,Student,14975,False,False,True,0,1,0,0,1,2,0,0,1
+0.5198982679204428,-0.4056668131230588,-0.5991660473103639,48,non-binary,4,Facebook,Sports,Australia,Urban,Marketer Manager,13243,True,True,True,2,0,1,0,2,0,1,1,1
+-1.4072980488647737,-1.1941348658403743,-1.4767005938030973,22,female,2,Instagram,Sports,Australia,Rural,Marketer Manager,10648,True,True,True,0,1,1,0,0,0,1,1,1
+0.8163900089643223,-0.7999008394817166,0.027112943096010634,52,male,3,Instagram,Lifestlye,United States,Urban,Software Engineer,15095,True,False,False,1,1,0,2,2,1,1,0,0
+-0.07308521416731607,0.7770352659529145,0.540783454125861,40,female,7,Instagram,Travel,United States,Urban,Software Engineer,16614,False,False,True,0,1,2,2,2,1,0,0,1
+0.37165239739850314,1.1712692923115724,0.7169666906278703,46,male,8,YouTube,Sports,United Kingdom,Rural,Student,17135,False,False,True,1,2,1,1,0,2,0,0,1
+1.4093734910520812,0.3828012395942567,-1.3546235335780965,60,non-binary,6,Instagram,Travel,United States,Rural,Software Engineer,11009,True,False,False,2,1,2,2,0,1,1,0,0
+-0.9625604372989545,-0.011432786764401043,-1.1716770250414612,28,non-binary,5,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,11550,True,False,True,2,1,1,0,1,0,1,0,1
+-0.4436998904721654,-1.5883688921990322,1.3459509898480952,35,male,1,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,18995,False,False,True,1,2,1,0,1,0,0,0,1
+1.7058652320959606,1.1712692923115724,0.8376910964459457,64,non-binary,8,YouTube,Sports,United States,Urban,Marketer Manager,17492,True,True,True,2,2,1,2,2,0,1,1,1
+-0.8884375020379846,-0.7999008394817166,-0.545736198236818,29,female,3,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,13401,False,True,True,0,1,1,1,1,0,0,1,1
+-1.110806307820894,0.3828012395942567,0.8224737343680371,26,male,6,YouTube,Travel,United Kingdom,Sub_Urban,Student,17447,True,True,False,1,2,2,1,1,2,1,1,0
+-1.0366833725599243,-0.7999008394817166,0.13836876806560958,27,non-binary,3,Facebook,Sports,United States,Rural,Student,15424,True,True,True,2,0,1,2,0,2,1,1,1
+1.483496426313051,0.7770352659529145,-0.2616787727825228,61,male,7,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,14241,True,False,False,1,0,0,1,1,1,1,0,0
+-0.5178228257331352,0.7770352659529145,-0.6268954626523309,34,female,7,YouTube,Lifestlye,United Kingdom,Urban,Software Engineer,13161,False,True,True,0,2,0,1,2,1,0,1,1
+1.038758814747232,1.56550331867023,-0.2907608425314149,55,female,9,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,14155,False,True,True,0,2,2,1,1,1,0,1,1
+-1.259052178342834,-0.011432786764401043,0.8329568060217075,24,non-binary,5,Instagram,Sports,Australia,Urban,Student,17478,True,False,False,2,1,1,0,2,2,1,0,0
+1.6317422968349908,1.1712692923115724,1.2526178357702555,63,female,8,YouTube,Lifestlye,Australia,Rural,Marketer Manager,18719,False,True,True,0,2,0,0,0,0,0,1,1
+-0.8143145667770147,1.1712692923115724,1.420346982228982,30,male,8,Instagram,Travel,United States,Urban,Software Engineer,19215,False,False,False,1,1,2,2,2,1,0,0,0
+1.1870046852691716,-1.5883688921990322,0.5417979449310549,57,female,1,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,16617,False,False,False,0,0,1,0,1,0,0,0,0
+1.3352505557911114,-0.011432786764401043,0.21817537807419726,59,male,5,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,15660,False,False,False,1,2,0,1,0,1,0,0,0
+-1.110806307820894,-0.7999008394817166,1.2204922936057816,26,male,3,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,18624,True,False,True,1,1,0,0,1,1,1,0,1
+0.2234065268765634,-1.5883688921990322,-1.2981502120889687,44,female,1,Instagram,Travel,United States,Rural,Software Engineer,11176,False,False,True,0,1,2,2,0,1,0,0,1
+-1.6296668546476831,-0.4056668131230588,0.9945990076492707,19,non-binary,4,Facebook,Sports,Australia,Rural,Software Engineer,17956,False,True,True,2,0,1,0,0,1,0,1,1
+-1.4072980488647737,1.1712692923115724,1.2096710583503798,22,female,8,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,18592,True,True,True,0,2,1,1,1,1,1,1,1
+0.37165239739850314,-0.7999008394817166,-0.9407112850589807,46,male,3,Facebook,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,12233,False,True,False,1,0,0,1,1,0,0,1,0
+0.9646358794862621,-1.1941348658403743,-0.10646167958785435,54,male,2,Instagram,Lifestlye,United States,Rural,Software Engineer,14700,False,False,True,1,1,0,2,0,1,0,0,1
+1.038758814747232,1.56550331867023,0.301363624100098,55,female,9,Instagram,Lifestlye,Australia,Rural,Marketer Manager,15906,False,True,True,0,1,0,0,0,0,0,1,1
+-0.36957695521119555,-0.011432786764401043,0.9621353018830655,36,non-binary,5,YouTube,Sports,Australia,Sub_Urban,Student,17860,True,True,False,2,2,1,0,1,2,1,1,0
+-1.184929243081864,0.7770352659529145,0.8491886589048101,25,non-binary,7,Instagram,Travel,Australia,Urban,Software Engineer,17526,True,True,False,2,1,2,0,2,1,1,1,0
+1.557619361574021,-1.1941348658403743,0.18402085429933557,62,male,2,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,15559,False,True,True,1,2,2,1,1,0,0,1,1
+-1.7037897899086532,1.56550331867023,0.5806867591301549,18,male,9,Facebook,Sports,United States,Rural,Student,16732,False,False,False,1,0,1,2,0,2,0,0,0
+-0.14720814942828594,1.56550331867023,-0.8460254765742157,39,non-binary,9,YouTube,Travel,Australia,Sub_Urban,Student,12513,True,True,False,2,2,2,0,1,2,1,1,0
+-0.5178228257331352,-0.4056668131230588,0.9519903938311264,34,female,4,YouTube,Lifestlye,United Kingdom,Urban,Student,17830,True,False,False,0,2,0,1,2,2,1,0,0
+-1.259052178342834,-0.4056668131230588,1.67396968352746,24,male,4,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,19965,True,False,False,1,1,2,1,1,0,1,0,0
+0.07516065635462366,0.3828012395942567,0.6523774426971913,42,male,6,Instagram,Travel,United Kingdom,Rural,Software Engineer,16944,False,True,False,1,1,2,1,0,1,0,1,0
+1.557619361574021,0.3828012395942567,0.9790434819696308,62,non-binary,6,YouTube,Travel,Australia,Sub_Urban,Software Engineer,17910,False,False,True,2,2,2,0,1,1,0,0,1
+-1.4814209841257435,-1.5883688921990322,0.21445557845515292,21,female,1,Instagram,Lifestlye,Australia,Rural,Marketer Manager,15649,True,False,True,0,1,0,0,0,0,1,0,1
+0.8905129442252921,1.56550331867023,-1.325203300227473,53,non-binary,9,Instagram,Sports,Australia,Rural,Software Engineer,11096,False,False,True,2,1,1,0,0,1,0,0,1
+-1.3331751136038037,-1.1941348658403743,1.3882214400645083,23,female,2,Instagram,Lifestlye,Australia,Sub_Urban,Marketer Manager,19120,False,False,True,0,1,0,0,1,0,0,0,1
+0.5198982679204428,-0.011432786764401043,-1.0360734207472084,48,female,5,YouTube,Sports,Australia,Rural,Software Engineer,11951,False,False,True,0,2,1,0,0,1,0,0,1
+-0.36957695521119555,1.56550331867023,1.5999118547483044,36,female,9,Instagram,Sports,Australia,Rural,Student,19746,False,False,True,0,1,1,0,0,2,0,0,1
+1.483496426313051,-0.4056668131230588,1.4105402377787744,61,male,4,YouTube,Sports,Australia,Urban,Software Engineer,19186,False,False,True,1,2,1,0,2,1,0,0,1
+1.1128817500082018,-0.7999008394817166,0.941507322177456,56,non-binary,3,Instagram,Travel,Australia,Urban,Marketer Manager,17799,False,True,False,2,1,2,0,2,0,0,1,0
+0.2234065268765634,0.7770352659529145,1.2813617419174164,44,non-binary,7,Facebook,Travel,Australia,Urban,Marketer Manager,18804,False,True,True,2,0,2,0,2,0,0,1,1
+-1.0366833725599243,0.3828012395942567,-1.4946232646948563,27,female,6,Instagram,Sports,United Kingdom,Urban,Student,10595,True,False,True,0,1,1,1,2,2,1,0,1
+0.1492835916155935,1.1712692923115724,0.9672077559090351,43,male,8,Instagram,Sports,Australia,Rural,Marketer Manager,17875,True,False,True,1,1,1,0,0,0,1,0,1
+-0.36957695521119555,-0.7999008394817166,1.3588012067138848,36,male,3,YouTube,Travel,United States,Sub_Urban,Software Engineer,19033,True,True,False,1,2,2,2,1,1,1,1,0
+1.1128817500082018,-0.011432786764401043,-0.19472237963972464,56,non-binary,5,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,14439,True,True,True,2,2,0,1,0,1,1,1,1
+-1.5555439193867133,-0.4056668131230588,0.323682421814364,20,male,4,Instagram,Sports,Australia,Rural,Student,15972,True,True,True,1,1,1,0,0,2,1,1,1
+1.557619361574021,-0.4056668131230588,-1.4056862374395234,62,male,4,Facebook,Lifestlye,United States,Rural,Marketer Manager,10858,True,True,False,1,0,0,2,0,0,1,1,0
+-0.8143145667770147,-0.4056668131230588,0.17049431023008343,30,female,4,Instagram,Travel,Australia,Sub_Urban,Student,15519,True,False,True,0,1,2,0,1,2,1,0,1
+0.29752946213753323,1.1712692923115724,0.8015075910606962,45,male,8,Instagram,Sports,United States,Urban,Software Engineer,17385,True,False,True,1,1,1,2,2,1,1,0,1
+-0.2954540199502257,0.3828012395942567,1.2245502568265572,37,female,6,Facebook,Lifestlye,United States,Rural,Student,18636,True,True,False,0,0,0,2,0,2,1,1,0
+0.29752946213753323,-0.7999008394817166,1.6790421375534295,45,non-binary,3,YouTube,Lifestlye,United States,Rural,Marketer Manager,19980,False,True,True,2,2,0,2,0,0,0,1,1
+-1.184929243081864,-0.011432786764401043,-0.2359783390509437,25,male,5,Instagram,Lifestlye,United States,Urban,Student,14317,False,True,False,1,1,0,2,2,2,0,1,0
+1.2611276205301414,0.3828012395942567,-0.5278135273450588,58,non-binary,6,YouTube,Travel,United Kingdom,Rural,Marketer Manager,13454,True,True,True,2,2,2,1,0,0,1,1,1
+1.1128817500082018,-0.011432786764401043,-1.347522097941739,56,non-binary,5,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,11030,False,False,True,2,2,2,1,1,0,0,0,1
+-1.7037897899086532,0.3828012395942567,1.5123274818998966,18,male,6,Facebook,Lifestlye,United States,Rural,Software Engineer,19487,False,True,True,1,0,0,2,0,1,0,1,1
+-1.5555439193867133,1.1712692923115724,0.9776908275627055,20,male,8,Facebook,Lifestlye,Australia,Rural,Software Engineer,17906,True,True,False,1,0,0,0,0,1,1,1,0
+-0.8143145667770147,0.7770352659529145,-1.2065078760197854,30,non-binary,7,YouTube,Travel,United States,Urban,Software Engineer,11447,True,True,False,2,2,2,2,2,1,1,1,0
+0.29752946213753323,-0.011432786764401043,-0.7320643427907663,45,male,5,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,12850,True,False,False,1,1,0,1,0,0,1,0,0
+0.07516065635462366,0.3828012395942567,1.0453235479089662,42,female,6,YouTube,Lifestlye,Australia,Rural,Student,18106,False,False,True,0,2,0,0,0,2,0,0,1
+0.6681441384423826,-0.4056668131230588,0.7223773082555711,50,female,4,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,17151,False,False,True,0,1,2,1,1,0,0,0,1
+1.038758814747232,1.56550331867023,1.5177380995275975,55,male,9,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,19503,True,True,False,1,1,0,1,2,1,1,1,0
+-1.3331751136038037,-0.4056668131230588,0.6550827515110417,23,non-binary,4,Facebook,Lifestlye,Australia,Urban,Software Engineer,16952,False,True,False,2,0,0,0,2,1,0,1,0
+1.483496426313051,-1.5883688921990322,-0.32457720270454526,61,male,1,Instagram,Lifestlye,United States,Sub_Urban,Student,14055,False,True,True,1,1,0,2,1,2,0,1,1
+1.557619361574021,0.7770352659529145,0.1309291688275209,62,male,7,Instagram,Travel,United States,Rural,Software Engineer,15402,False,False,True,1,1,2,2,0,1,0,0,1
+0.5940212031814127,0.7770352659529145,1.442665779943248,49,non-binary,7,YouTube,Lifestlye,United States,Urban,Software Engineer,19281,True,False,True,2,2,0,2,2,1,1,0,1
+1.557619361574021,-0.4056668131230588,-1.130421065630242,62,non-binary,4,Facebook,Travel,United States,Urban,Software Engineer,11672,False,True,True,2,0,2,2,2,1,0,1,1
+1.7058652320959606,-0.7999008394817166,-0.1632731646787134,64,female,3,Instagram,Travel,Australia,Rural,Student,14532,False,True,False,0,1,2,0,0,2,0,1,0
+-0.2213310846892558,1.1712692923115724,-0.030713032800042308,38,non-binary,8,Instagram,Sports,Australia,Rural,Marketer Manager,14924,False,False,True,2,1,1,0,0,0,0,0,1
+-0.5919457609941051,-0.011432786764401043,0.36189490881000136,33,female,5,Facebook,Sports,Australia,Urban,Software Engineer,16085,False,True,True,0,0,1,0,2,1,0,1,1
+-0.2213310846892558,0.7770352659529145,0.9195266880649212,38,non-binary,7,YouTube,Lifestlye,United Kingdom,Rural,Student,17734,False,True,True,2,2,0,1,0,2,0,1,1
+-0.9625604372989545,-0.4056668131230588,-0.05100284890392053,28,male,4,Facebook,Travel,Australia,Urban,Software Engineer,14864,False,True,True,1,0,2,0,2,1,0,1,1
+0.9646358794862621,-0.4056668131230588,1.4545015060038438,54,female,4,Facebook,Sports,United States,Rural,Student,19316,False,False,True,0,0,1,2,0,2,0,0,1
+0.8905129442252921,1.1712692923115724,-1.2829328500110602,53,female,8,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,11221,True,True,True,0,1,0,1,0,1,1,1,1
+0.8163900089643223,1.1712692923115724,-0.7286827067734533,52,female,8,Instagram,Sports,United States,Sub_Urban,Student,12860,True,True,True,0,1,1,2,1,2,1,1,1
+-0.36957695521119555,-1.1941348658403743,1.1542122276664462,36,male,2,YouTube,Sports,United States,Rural,Software Engineer,18428,False,True,False,1,2,1,2,0,1,0,1,0
+-0.2954540199502257,-1.1941348658403743,1.4612647780384698,37,male,2,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,19336,True,True,False,1,1,2,0,1,0,1,1,0
+-0.4436998904721654,-0.7999008394817166,-0.5957844112930509,35,male,3,Instagram,Travel,Australia,Rural,Software Engineer,13253,False,False,False,1,1,2,0,0,1,0,0,0
+1.7058652320959606,-0.7999008394817166,-0.4168958659771912,64,male,3,Facebook,Sports,United States,Urban,Student,13782,False,False,True,1,0,1,2,2,2,0,0,1
+1.2611276205301414,-1.5883688921990322,0.6567735695196982,58,male,1,Instagram,Sports,United States,Urban,Software Engineer,16957,False,False,False,1,1,1,2,2,1,0,0,0
+-0.7401916315160448,-0.7999008394817166,-1.4367972887988034,31,female,3,YouTube,Travel,United Kingdom,Rural,Marketer Manager,10766,True,True,True,0,2,2,1,0,0,1,1,1
+-0.666068696255075,0.3828012395942567,-0.7892139914833567,32,male,6,Facebook,Lifestlye,Australia,Rural,Software Engineer,12681,False,False,True,1,0,0,0,0,1,0,0,1
+0.5198982679204428,1.1712692923115724,0.91141076162337,48,female,8,YouTube,Travel,United Kingdom,Urban,Student,17710,False,True,True,0,2,2,1,2,2,0,1,1
+-1.7037897899086532,0.3828012395942567,0.8343094604286327,18,male,6,Facebook,Sports,United Kingdom,Rural,Student,17482,True,False,True,1,0,1,1,0,2,1,0,1
+-1.5555439193867133,-0.011432786764401043,0.0240694706804289,20,non-binary,5,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,15086,True,True,False,2,1,0,1,1,0,1,1,0
+-0.5919457609941051,-0.4056668131230588,0.9973043164631211,33,female,4,Facebook,Sports,United States,Sub_Urban,Student,17964,False,False,True,0,0,1,2,1,2,0,0,1
+-0.07308521416731607,-0.7999008394817166,-0.7946246091110575,40,non-binary,3,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,12665,True,False,True,2,0,0,1,1,1,1,0,1
+-0.9625604372989545,-0.4056668131230588,1.6692353931032218,28,female,4,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,19951,True,False,False,0,1,1,1,1,1,1,0,0
+-0.8884375020379846,0.7770352659529145,-0.5078618748429119,29,non-binary,7,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,13513,False,True,False,2,1,0,2,1,1,0,1,0
+-1.0366833725599243,-1.5883688921990322,-1.5284396248679866,27,male,1,YouTube,Lifestlye,Australia,Rural,Student,10495,False,True,False,1,2,0,0,0,2,0,1,0
+0.5940212031814127,0.7770352659529145,0.2729578815546685,49,male,7,YouTube,Sports,Australia,Rural,Software Engineer,15822,False,True,True,1,2,1,0,0,1,0,1,1
+-0.5919457609941051,-1.5883688921990322,-0.9951556249377206,33,male,1,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,12072,True,False,False,1,1,0,1,1,1,1,0,0
+-1.184929243081864,-1.1941348658403743,0.9401546677705308,25,female,2,Instagram,Travel,United States,Rural,Software Engineer,17795,True,True,True,0,1,2,2,0,1,1,1,1
+1.038758814747232,-0.4056668131230588,1.1883667514413077,55,non-binary,4,Instagram,Sports,Australia,Rural,Marketer Manager,18529,True,True,True,2,1,1,0,0,0,1,1,1
+-0.8884375020379846,-1.5883688921990322,-0.3604225444880635,29,male,1,Facebook,Travel,United Kingdom,Sub_Urban,Student,13949,False,True,False,1,0,2,1,1,2,0,1,0
+0.001037721093653793,1.56550331867023,0.34431040151997355,41,non-binary,9,Facebook,Sports,United Kingdom,Rural,Student,16033,True,True,False,2,0,1,1,0,2,1,1,0
+0.29752946213753323,0.3828012395942567,1.1203958674933157,45,non-binary,6,Facebook,Lifestlye,United States,Rural,Student,18328,True,True,False,2,0,0,2,0,2,1,1,0
+-1.184929243081864,-1.5883688921990322,-0.8318226053015009,25,male,1,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,12555,False,True,True,1,1,0,1,0,0,0,1,1
+0.29752946213753323,-1.5883688921990322,0.4582715353034229,45,male,1,YouTube,Lifestlye,Australia,Sub_Urban,Student,16370,False,False,True,1,2,0,0,1,2,0,0,1
+0.8905129442252921,0.3828012395942567,-0.20283830608127593,53,non-binary,6,Instagram,Sports,United States,Rural,Marketer Manager,14415,False,False,True,2,1,1,2,0,0,0,0,1
+0.1492835916155935,-0.4056668131230588,0.31928629499185707,43,male,4,Facebook,Travel,Australia,Urban,Marketer Manager,15959,True,True,True,1,0,2,0,2,0,1,1,1
+-1.184929243081864,-0.4056668131230588,1.3838253132420013,25,male,4,Facebook,Travel,Australia,Urban,Student,19107,False,False,True,1,0,2,0,2,2,0,0,1
+0.29752946213753323,0.3828012395942567,0.3307838574507214,45,male,6,Instagram,Sports,Australia,Sub_Urban,Software Engineer,15993,True,False,True,1,1,1,0,1,1,1,0,1
+0.29752946213753323,0.7770352659529145,0.002088836567894155,45,female,7,Instagram,Sports,United Kingdom,Urban,Software Engineer,15021,True,True,False,0,1,1,1,2,1,1,1,0
+0.9646358794862621,1.56550331867023,-0.712789017492082,54,non-binary,9,Facebook,Travel,United Kingdom,Sub_Urban,Student,12907,False,True,True,2,0,2,1,1,2,0,1,1
+1.2611276205301414,-0.011432786764401043,-0.7104218722799629,58,non-binary,5,Facebook,Travel,Australia,Urban,Student,12914,False,False,False,2,0,2,0,2,2,0,0,0
+0.8905129442252921,1.56550331867023,-0.3871374690248365,53,female,9,Facebook,Travel,Australia,Urban,Marketer Manager,13870,False,True,False,0,0,2,0,2,0,0,1,0
+0.2234065268765634,-0.4056668131230588,1.4118928921856995,44,non-binary,4,Instagram,Travel,United States,Urban,Student,19190,False,False,False,2,1,2,2,2,2,0,0,0
+-0.5178228257331352,-1.1941348658403743,0.023731307078697597,34,male,2,Facebook,Sports,United States,Sub_Urban,Marketer Manager,15085,False,False,False,1,0,1,2,1,0,0,0,0
+-1.110806307820894,-0.7999008394817166,0.5177883292081323,26,non-binary,3,Facebook,Sports,United Kingdom,Sub_Urban,Student,16546,True,False,False,2,0,1,1,1,2,1,0,0
+0.6681441384423826,-1.5883688921990322,-1.562255985041117,50,male,1,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,10395,True,True,True,1,2,0,1,0,1,1,1,1
+-0.2954540199502257,0.3828012395942567,-1.378633149301019,37,female,6,Instagram,Travel,United States,Sub_Urban,Software Engineer,10938,True,False,True,0,1,2,2,1,1,1,0,1
+-0.8143145667770147,0.3828012395942567,1.6276412700902714,30,male,6,YouTube,Lifestlye,Australia,Urban,Student,19828,False,True,True,1,2,0,0,2,2,0,1,1
+0.29752946213753323,-1.5883688921990322,-0.8470399673794096,45,non-binary,1,YouTube,Sports,United Kingdom,Urban,Marketer Manager,12510,True,True,True,2,2,1,1,2,0,1,1,1
+0.37165239739850314,-0.7999008394817166,-0.1281041500986578,46,non-binary,3,Facebook,Sports,Australia,Sub_Urban,Software Engineer,14636,False,True,False,2,0,1,0,1,1,0,1,0
+-0.8143145667770147,-0.011432786764401043,-1.1381988284700622,30,non-binary,5,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,11649,False,True,False,2,1,0,2,1,0,0,1,0
+1.6317422968349908,-0.7999008394817166,-0.44800691733647113,63,female,3,Facebook,Travel,United Kingdom,Sub_Urban,Student,13690,True,True,False,0,0,2,1,1,2,1,1,0
+0.8163900089643223,-0.7999008394817166,-0.5342386357779536,52,female,3,Instagram,Travel,United Kingdom,Rural,Student,13435,True,False,True,0,1,2,1,0,2,1,0,1
+-1.3331751136038037,-0.7999008394817166,-0.6133689185830787,23,non-binary,3,YouTube,Travel,United States,Urban,Software Engineer,13201,False,True,True,2,2,2,2,2,1,0,1,1
+-0.4436998904721654,-0.011432786764401043,-0.2826449160898636,35,male,5,Instagram,Travel,United Kingdom,Rural,Student,14179,True,True,True,1,1,2,1,0,2,1,1,1
+-1.4072980488647737,-0.011432786764401043,1.146434464826626,22,female,5,Facebook,Lifestlye,United States,Rural,Software Engineer,18405,False,True,True,0,0,0,2,0,1,0,1,1
+1.7058652320959606,-0.4056668131230588,-0.6011950289207517,64,non-binary,4,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,13237,True,True,False,2,0,0,1,2,0,1,1,0
+0.07516065635462366,-1.5883688921990322,-0.3898427778386869,42,non-binary,1,Facebook,Sports,United States,Urban,Software Engineer,13862,True,True,False,2,0,1,2,2,1,1,1,0
+-1.6296668546476831,-0.011432786764401043,-1.6762171188245665,19,female,5,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,10058,True,False,True,0,1,2,1,1,1,1,0,1
+-1.0366833725599243,-0.011432786764401043,-0.025978742375804057,27,female,5,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,14938,True,True,True,0,2,2,0,1,0,1,1,1
+0.445775332659473,-0.4056668131230588,-0.6911465469812785,47,female,4,YouTube,Travel,Australia,Rural,Software Engineer,12971,True,True,False,0,2,2,0,0,1,1,1,0
+1.557619361574021,0.3828012395942567,1.5907814375015592,62,male,6,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,19719,False,False,False,1,1,0,0,1,1,0,0,0
+-1.4072980488647737,-0.4056668131230588,1.1156615770690774,22,male,4,Facebook,Travel,United Kingdom,Sub_Urban,Student,18314,True,True,False,1,0,2,1,1,2,1,1,0
+0.6681441384423826,0.7770352659529145,1.5600085497440106,50,non-binary,7,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,19628,True,False,False,2,2,0,1,2,0,1,0,0
+-1.7037897899086532,0.7770352659529145,1.4673517228696333,18,female,7,Facebook,Travel,Australia,Urban,Software Engineer,19354,True,False,True,0,0,2,0,2,1,1,0,1
+-0.4436998904721654,-1.1941348658403743,-0.564673359933771,35,male,2,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,13345,False,False,False,1,1,2,0,1,0,0,0,0
+0.5940212031814127,-0.7999008394817166,-0.8551558938209609,49,female,3,Facebook,Sports,United States,Urban,Marketer Manager,12486,False,False,False,0,0,1,2,2,0,0,0,0
+1.7058652320959606,-1.5883688921990322,-1.5061208271537205,64,non-binary,1,YouTube,Travel,United States,Sub_Urban,Software Engineer,10561,False,True,False,2,2,2,2,1,1,0,1,0
+-0.9625604372989545,1.1712692923115724,-0.34960130923266175,28,male,8,YouTube,Travel,United States,Urban,Student,13981,False,True,False,1,2,2,2,2,2,0,1,0
+-0.2213310846892558,1.56550331867023,0.4214117027147108,38,male,9,Facebook,Sports,Australia,Urban,Marketer Manager,16261,False,False,True,1,0,1,0,2,0,0,0,1
+0.1492835916155935,-0.4056668131230588,-1.1084404315177074,43,male,4,Instagram,Lifestlye,Australia,Urban,Software Engineer,11737,True,False,True,1,1,0,0,2,1,1,0,1
+0.07516065635462366,0.3828012395942567,1.380105513622957,42,non-binary,6,Facebook,Lifestlye,Australia,Urban,Marketer Manager,19096,True,True,True,2,0,0,0,2,0,1,1,1
+-0.14720814942828594,1.56550331867023,-0.49399716717192843,39,female,9,Instagram,Travel,United States,Sub_Urban,Student,13554,True,False,True,0,1,2,2,1,2,1,0,1
+0.2234065268765634,0.3828012395942567,1.6580759942460888,44,male,6,Facebook,Lifestlye,United Kingdom,Rural,Student,19918,False,False,True,1,0,0,1,0,2,0,0,1
+-0.8143145667770147,1.56550331867023,1.390250421674896,30,non-binary,9,YouTube,Travel,Australia,Urban,Student,19126,False,False,True,2,2,2,0,2,2,0,0,1
+0.6681441384423826,-0.4056668131230588,0.7034401465586182,50,female,4,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,17095,True,True,False,0,1,1,1,1,1,1,1,0
+0.7422670737033524,1.1712692923115724,1.099429724185975,51,non-binary,8,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,18266,False,False,False,2,1,1,1,1,1,0,0,0
+1.2611276205301414,1.56550331867023,-1.5964105088159788,58,female,9,Instagram,Travel,United Kingdom,Urban,Student,10294,False,True,False,0,1,2,1,2,2,0,1,0
+0.8163900089643223,-0.4056668131230588,1.0811688896924845,52,non-binary,4,YouTube,Sports,United States,Rural,Software Engineer,18212,False,True,False,2,2,1,2,0,1,0,1,0
+-1.7037897899086532,-0.011432786764401043,1.4254194362549517,18,female,5,Facebook,Sports,United Kingdom,Urban,Student,19230,True,True,True,0,0,1,1,2,2,1,1,1
+-0.2213310846892558,1.1712692923115724,0.10658138950286701,38,male,8,YouTube,Travel,Australia,Sub_Urban,Software Engineer,15330,True,False,False,1,2,2,0,1,1,1,0,0
+-1.3331751136038037,0.3828012395942567,-0.12167904166576302,23,female,6,Instagram,Travel,United States,Rural,Student,14655,False,False,True,0,1,2,2,0,2,0,0,1
+0.29752946213753323,0.7770352659529145,-1.3208071734049662,45,non-binary,7,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,11109,False,True,False,2,0,1,0,1,0,0,1,0
+-0.5178228257331352,-0.7999008394817166,-0.42061566559623553,34,non-binary,3,YouTube,Lifestlye,Australia,Urban,Student,13771,False,True,False,2,2,0,0,2,2,0,1,0
+-1.4072980488647737,0.7770352659529145,1.1998643139001721,22,female,7,Instagram,Lifestlye,United States,Rural,Student,18563,False,True,False,0,1,0,2,0,2,0,1,0
+0.5198982679204428,1.1712692923115724,0.3747451256757909,48,male,8,Instagram,Travel,Australia,Sub_Urban,Software Engineer,16123,True,False,True,1,1,2,0,1,1,1,0,1
+-1.4072980488647737,0.3828012395942567,0.8901064547142978,22,male,6,YouTube,Travel,Australia,Sub_Urban,Software Engineer,17647,False,False,False,1,2,2,0,1,1,0,0,0
+1.038758814747232,1.56550331867023,-1.2988265392924314,55,female,9,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,11174,True,True,True,0,2,0,2,1,1,1,1,1
+-1.5555439193867133,0.3828012395942567,-1.3022081753097445,20,female,6,YouTube,Sports,Australia,Urban,Software Engineer,11164,True,True,True,0,2,1,0,2,1,1,1,1
+-0.07308521416731607,1.56550331867023,1.443680270748442,40,non-binary,9,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,19284,True,False,False,2,1,0,1,0,1,1,0,0
+0.9646358794862621,-0.4056668131230588,1.508269518679121,54,male,4,YouTube,Lifestlye,Australia,Urban,Software Engineer,19475,False,True,True,1,2,0,0,2,1,0,1,1
+0.9646358794862621,1.1712692923115724,1.36015386112081,54,female,8,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,19037,True,False,True,0,1,0,1,2,0,1,0,1
+-1.0366833725599243,-0.4056668131230588,1.2502506905581363,27,male,4,YouTube,Lifestlye,Australia,Urban,Student,18712,True,False,False,1,2,0,0,2,2,1,0,0
+-1.0366833725599243,-1.1941348658403743,-0.18559196239297943,27,female,2,Instagram,Travel,United States,Rural,Student,14466,False,True,False,0,1,2,2,0,2,0,1,0
+-0.36957695521119555,1.56550331867023,0.1769194186629782,36,female,9,Instagram,Travel,United States,Urban,Student,15538,False,True,False,0,1,2,2,2,2,0,1,0
+-0.5178228257331352,-0.011432786764401043,0.708850764186319,34,male,5,Facebook,Sports,Australia,Urban,Marketer Manager,17111,False,False,False,1,0,1,0,2,0,0,0,0
+-0.2213310846892558,-0.4056668131230588,1.156241209276834,38,female,4,YouTube,Sports,United States,Urban,Student,18434,True,False,False,0,2,1,2,2,2,1,0,0
+-0.7401916315160448,-1.1941348658403743,-0.7489725228773315,31,female,2,YouTube,Sports,Australia,Urban,Marketer Manager,12800,False,False,False,0,2,1,0,2,0,0,0,0
+-1.110806307820894,-1.5883688921990322,-0.1379108945488656,26,non-binary,1,Instagram,Sports,United States,Sub_Urban,Marketer Manager,14607,True,False,True,2,1,1,2,1,0,1,0,1
+1.6317422968349908,0.7770352659529145,0.7599134680477458,63,female,7,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,17262,True,False,False,0,1,0,1,2,0,1,0,0
+-1.7037897899086532,0.3828012395942567,-1.1747204974570429,18,female,6,Instagram,Travel,Australia,Sub_Urban,Student,11541,False,True,False,0,1,2,0,1,2,0,1,0
+1.557619361574021,-1.1941348658403743,-0.7608082489379271,62,female,2,Facebook,Travel,United Kingdom,Urban,Marketer Manager,12765,True,False,True,0,0,2,1,2,0,1,0,1
+-0.8143145667770147,1.1712692923115724,-0.17713787234969683,30,non-binary,8,Facebook,Sports,United Kingdom,Rural,Student,14491,True,False,False,2,0,1,1,0,2,1,0,0
+-1.4814209841257435,-0.4056668131230588,-0.6532722235873726,21,male,4,Instagram,Sports,Australia,Sub_Urban,Student,13083,True,False,True,1,1,1,0,1,2,1,0,1
+-1.7037897899086532,1.1712692923115724,0.11537364314788091,18,non-binary,8,YouTube,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,15356,True,True,False,2,2,0,1,1,1,1,1,0
+1.1870046852691716,0.7770352659529145,-1.067860799309951,57,non-binary,7,YouTube,Lifestlye,Australia,Sub_Urban,Software Engineer,11857,False,True,False,2,2,0,0,1,1,0,1,0
+0.5940212031814127,-0.011432786764401043,-1.4357827979936095,49,male,5,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,10769,True,False,True,1,0,1,1,1,0,1,0,1
+0.7422670737033524,1.1712692923115724,-1.2149619660630682,51,non-binary,8,Facebook,Travel,Australia,Rural,Marketer Manager,11422,False,False,False,2,0,2,0,0,0,0,0,0
+0.29752946213753323,1.56550331867023,1.2117000399607678,45,male,9,Instagram,Travel,Australia,Urban,Student,18598,True,True,True,1,1,2,0,2,2,1,1,1
+0.5198982679204428,-0.011432786764401043,-0.6908083833795472,48,non-binary,5,YouTube,Travel,United States,Sub_Urban,Marketer Manager,12972,True,True,False,2,2,2,2,1,0,1,1,0
+-1.184929243081864,-0.011432786764401043,-1.0627883452839815,25,male,5,Instagram,Sports,Australia,Rural,Marketer Manager,11872,False,True,False,1,1,1,0,0,0,0,1,0
+1.1128817500082018,-1.1941348658403743,0.19754739836858773,56,female,2,Facebook,Travel,Australia,Sub_Urban,Student,15599,True,True,True,0,0,2,0,1,2,1,1,1
+0.1492835916155935,-0.011432786764401043,-0.9285373953966538,43,non-binary,5,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,12269,True,False,False,2,2,0,1,2,0,1,0,0
+0.7422670737033524,-0.7999008394817166,0.08798239140764531,51,non-binary,3,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,15275,True,True,False,2,2,0,0,1,0,1,1,0
+-1.5555439193867133,0.7770352659529145,-0.08989166310302046,20,non-binary,7,Facebook,Sports,United States,Rural,Student,14749,True,False,True,2,0,1,2,0,2,1,0,1
+-0.8884375020379846,-0.011432786764401043,0.526242419251415,29,non-binary,5,Instagram,Lifestlye,United Kingdom,Urban,Student,16571,True,False,False,2,1,0,1,2,2,1,0,0
+-1.7037897899086532,1.1712692923115724,1.4737768313025281,18,female,8,Instagram,Sports,United Kingdom,Rural,Software Engineer,19373,True,True,True,0,1,1,1,0,1,1,1,1
+1.483496426313051,-1.5883688921990322,0.019335180256190646,61,non-binary,1,YouTube,Travel,United States,Urban,Student,15072,False,True,False,2,2,2,2,2,2,0,1,0
+-1.4072980488647737,-0.7999008394817166,1.5610230405492045,22,female,3,Facebook,Travel,United Kingdom,Urban,Software Engineer,19631,False,True,True,0,0,2,1,2,1,0,1,1
+0.445775332659473,-0.7999008394817166,0.1515571485331304,47,female,3,YouTube,Travel,United Kingdom,Urban,Marketer Manager,15463,False,True,False,0,2,2,1,2,0,0,1,0
+0.445775332659473,1.56550331867023,0.823488225173231,47,female,9,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,17450,True,False,True,0,0,0,1,1,2,1,0,1
+-0.5178228257331352,-0.011432786764401043,1.1515069188525957,34,female,5,Instagram,Sports,United Kingdom,Rural,Student,18420,True,False,True,0,1,1,1,0,2,1,0,1
+1.7058652320959606,1.56550331867023,-0.35704090847075043,64,male,9,Facebook,Travel,United States,Rural,Student,13959,True,False,False,1,0,2,2,0,2,1,0,0
+-0.07308521416731607,1.56550331867023,-1.2518217986517801,40,male,9,Instagram,Sports,United States,Rural,Marketer Manager,11313,False,True,False,1,1,1,2,0,0,0,1,0
+-0.666068696255075,-1.5883688921990322,0.9577391750605586,32,non-binary,1,Facebook,Travel,United Kingdom,Urban,Software Engineer,17847,True,False,True,2,0,2,1,2,1,1,0,1
+0.9646358794862621,-1.1941348658403743,-1.333995553872487,54,male,2,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,11070,False,True,False,1,2,0,1,1,0,0,1,0
+-0.2213310846892558,-0.011432786764401043,1.4037769657441481,38,male,5,Instagram,Lifestlye,United States,Urban,Marketer Manager,19166,True,False,True,1,1,0,2,2,0,1,0,1
+-0.7401916315160448,-0.4056668131230588,1.6621339574668643,31,non-binary,4,YouTube,Sports,United States,Rural,Student,19930,True,True,False,2,2,1,2,0,2,1,1,0
+-1.6296668546476831,1.56550331867023,-0.5849631760376491,19,non-binary,9,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,13285,True,False,False,2,2,0,2,1,1,1,0,0
+-0.9625604372989545,0.7770352659529145,1.3303954641684552,28,non-binary,7,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,18949,False,False,True,2,1,0,1,1,0,0,0,1
+1.1128817500082018,0.3828012395942567,-0.6492142603665969,56,male,6,Instagram,Sports,United Kingdom,Sub_Urban,Student,13095,True,True,True,1,1,1,1,1,2,1,1,1
+1.038758814747232,0.7770352659529145,-1.5876182551709648,55,male,7,YouTube,Travel,Australia,Rural,Marketer Manager,10320,False,False,False,1,2,2,0,0,0,0,0,0
+0.7422670737033524,-1.5883688921990322,-0.910952888106626,51,non-binary,1,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,12321,True,False,False,2,2,0,2,1,0,1,0,0
+1.038758814747232,-1.5883688921990322,-1.5081498087641085,55,female,1,YouTube,Sports,United Kingdom,Sub_Urban,Student,10555,True,True,False,0,2,1,1,1,2,1,1,0
+0.7422670737033524,1.1712692923115724,-0.025640578774072754,51,non-binary,8,YouTube,Lifestlye,United States,Urban,Student,14939,False,True,False,2,2,0,2,2,2,0,1,0
+-0.4436998904721654,-1.1941348658403743,0.14107407687946,35,female,2,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,15432,True,True,False,0,1,0,1,2,1,1,1,0
+0.445775332659473,1.56550331867023,-1.227135855725395,47,female,9,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,11386,True,True,True,0,1,0,2,1,0,1,1,1
+-0.666068696255075,0.7770352659529145,-0.08515737267878222,32,non-binary,7,YouTube,Lifestlye,United Kingdom,Sub_Urban,Student,14763,True,True,False,2,2,0,1,1,2,1,1,0
+0.2234065268765634,0.3828012395942567,0.621942718541374,44,non-binary,6,Facebook,Sports,Australia,Urban,Student,16854,True,False,False,2,0,1,0,2,2,1,0,0
+0.7422670737033524,-1.5883688921990322,0.8867248186969848,51,non-binary,1,Facebook,Sports,Australia,Urban,Software Engineer,17637,False,True,True,2,0,1,0,2,1,0,1,1
+1.038758814747232,-1.5883688921990322,-0.058780611743740524,55,male,1,Instagram,Sports,United States,Urban,Software Engineer,14841,False,False,True,1,1,1,2,2,1,0,0,1
+0.6681441384423826,-1.1941348658403743,-0.38815195983003037,50,female,2,YouTube,Lifestlye,United Kingdom,Rural,Student,13867,True,False,True,0,2,0,1,0,2,1,0,1
+0.001037721093653793,0.3828012395942567,-0.41317606635814685,41,male,6,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,13793,True,True,False,1,2,0,1,0,1,1,1,0
+-0.666068696255075,0.3828012395942567,0.7974496278399206,32,male,6,Instagram,Lifestlye,United States,Urban,Student,17373,False,False,True,1,1,0,2,2,2,0,0,1
+0.445775332659473,-1.1941348658403743,-0.8460254765742157,47,non-binary,2,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,12513,True,False,True,2,0,1,1,1,0,1,0,1
+1.3352505557911114,-1.5883688921990322,-0.40979443034083385,59,male,1,Facebook,Lifestlye,United States,Urban,Software Engineer,13803,False,True,True,1,0,0,2,2,1,0,1,1
+-0.5178228257331352,-0.011432786764401043,-0.9089239064962382,34,non-binary,5,Facebook,Travel,United Kingdom,Rural,Marketer Manager,12327,True,False,True,2,0,2,1,0,0,1,0,1
+-1.4072980488647737,-0.011432786764401043,1.2830525599260727,22,female,5,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,18809,False,True,False,0,1,0,2,1,0,0,1,0
+0.37165239739850314,-1.1941348658403743,-0.9637064099767094,46,non-binary,2,Facebook,Travel,United Kingdom,Rural,Marketer Manager,12165,False,True,False,2,0,2,1,0,0,0,1,0
+-1.4814209841257435,0.3828012395942567,-0.5771854131978292,21,male,6,Instagram,Lifestlye,United States,Sub_Urban,Student,13308,False,True,False,1,1,0,2,1,2,0,1,0
+-1.0366833725599243,1.56550331867023,0.48600095064538984,27,male,9,Instagram,Sports,United Kingdom,Rural,Marketer Manager,16452,False,False,True,1,1,1,1,0,0,0,0,1
+-0.5178228257331352,-1.1941348658403743,1.0321351674414454,34,non-binary,2,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,18067,True,False,True,2,2,0,0,1,0,1,0,1
+-1.0366833725599243,-1.1941348658403743,0.8884156367056413,27,non-binary,2,Facebook,Travel,United Kingdom,Sub_Urban,Marketer Manager,17642,True,False,True,2,0,2,1,1,0,1,0,1
+-0.5178228257331352,-0.7999008394817166,0.46976909776228726,34,male,3,Instagram,Travel,United States,Sub_Urban,Student,16404,False,False,True,1,1,2,2,1,2,0,0,1
+-0.2954540199502257,0.7770352659529145,-1.3603723148075286,37,female,7,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,10992,False,True,True,0,0,0,0,1,0,0,1,1
+0.001037721093653793,0.3828012395942567,0.13836876806560958,41,female,6,Facebook,Travel,United Kingdom,Rural,Marketer Manager,15424,False,False,True,0,0,2,1,0,0,0,0,1
+-1.4072980488647737,1.1712692923115724,1.5400568972418636,22,non-binary,8,YouTube,Travel,Australia,Rural,Software Engineer,19569,False,True,False,2,2,2,0,0,1,0,1,0
+0.7422670737033524,1.1712692923115724,-0.21433586854014025,51,female,8,Facebook,Sports,United Kingdom,Sub_Urban,Student,14381,True,False,False,0,0,1,1,1,2,1,0,0
+-1.3331751136038037,0.3828012395942567,-0.6224993358298239,23,male,6,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,13174,False,False,True,1,2,0,0,1,0,0,0,1
+-1.6296668546476831,-0.7999008394817166,-0.07873226424588745,19,non-binary,3,Instagram,Lifestlye,United States,Rural,Software Engineer,14782,False,False,False,2,1,0,2,0,1,0,0,0
+-0.8143145667770147,-0.7999008394817166,1.5157091179172097,30,male,3,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,19497,False,False,True,1,0,0,1,1,2,0,0,1
+1.4093734910520812,-1.5883688921990322,0.18435901790106687,60,male,1,Instagram,Travel,United Kingdom,Sub_Urban,Student,15560,False,False,True,1,1,2,1,1,2,0,0,1
+1.4093734910520812,0.7770352659529145,0.8268698611905441,60,female,7,Facebook,Lifestlye,United States,Sub_Urban,Student,17460,False,True,False,0,0,0,2,1,2,0,1,0
+-0.9625604372989545,-0.011432786764401043,-0.654963041596029,28,non-binary,5,Instagram,Lifestlye,Australia,Urban,Student,13078,False,False,True,2,1,0,0,2,2,0,0,1
+1.7058652320959606,-0.4056668131230588,-0.6870885837605029,64,non-binary,4,Facebook,Sports,United States,Sub_Urban,Student,12983,False,False,False,2,0,1,2,1,2,0,0,0
+-0.07308521416731607,-0.4056668131230588,0.758898977242552,40,female,4,Facebook,Sports,United States,Urban,Student,17259,True,False,True,0,0,1,2,2,2,1,0,1
+-0.5919457609941051,-0.4056668131230588,0.35141183715633095,33,male,4,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,16054,False,False,True,1,0,1,0,1,0,0,0,1
+0.5198982679204428,0.3828012395942567,-0.8426438405569027,48,male,6,Facebook,Travel,United States,Rural,Marketer Manager,12523,False,True,False,1,0,2,2,0,0,0,1,0
+-0.9625604372989545,1.1712692923115724,1.5765785662288445,28,male,8,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,19677,False,False,True,1,0,0,1,2,0,0,0,1
+-0.5919457609941051,1.1712692923115724,-0.1467031481938795,33,male,8,Facebook,Sports,United Kingdom,Urban,Marketer Manager,14581,True,True,True,1,0,1,1,2,0,1,1,1
+-1.184929243081864,-0.011432786764401043,0.20092903438590076,25,non-binary,5,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,15609,True,False,True,2,0,1,1,1,1,1,0,1
+-1.4814209841257435,0.3828012395942567,-1.0191652406606433,21,non-binary,6,Facebook,Sports,United States,Sub_Urban,Marketer Manager,12001,True,True,False,2,0,1,2,1,0,1,1,0
+1.1870046852691716,-0.4056668131230588,-1.2267976921236636,57,female,4,Facebook,Lifestlye,United Kingdom,Urban,Student,11387,False,True,True,0,0,0,1,2,2,0,1,1
+-1.4814209841257435,1.56550331867023,0.5198173108185202,21,female,9,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,16552,False,True,True,0,1,0,1,0,0,0,1,1
+0.07516065635462366,1.1712692923115724,-1.347522097941739,42,non-binary,8,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,11030,False,True,True,2,2,0,1,0,0,0,1,1
+-1.5555439193867133,-1.5883688921990322,1.6712643747136096,20,non-binary,1,Facebook,Travel,United Kingdom,Sub_Urban,Student,19957,True,True,False,2,0,2,1,1,2,1,1,0
+0.5940212031814127,-1.1941348658403743,-1.2832710136127914,49,male,2,YouTube,Travel,United Kingdom,Rural,Marketer Manager,11220,False,False,False,1,2,2,1,0,0,0,0,0
+-1.5555439193867133,1.56550331867023,0.34498672872343616,20,male,9,Facebook,Sports,United Kingdom,Rural,Marketer Manager,16035,True,True,False,1,0,1,1,0,0,1,1,0
+0.2234065268765634,1.1712692923115724,1.6215543252591078,44,female,8,Facebook,Lifestlye,United States,Sub_Urban,Marketer Manager,19810,True,False,False,0,0,0,2,1,0,1,0,0
+0.37165239739850314,-0.7999008394817166,1.501506246644495,46,non-binary,3,Instagram,Sports,United Kingdom,Rural,Software Engineer,19455,True,True,False,2,1,1,1,0,1,1,1,0
+0.5940212031814127,1.1712692923115724,0.5100105663683124,49,female,8,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,16523,True,True,True,0,1,0,1,1,0,1,1,1
+-0.36957695521119555,-1.5883688921990322,1.0345023126535646,36,non-binary,1,YouTube,Lifestlye,Australia,Urban,Student,18074,True,False,False,2,2,0,0,2,2,1,0,0
+-0.2213310846892558,-0.4056668131230588,1.368946114765824,38,male,4,Instagram,Lifestlye,United States,Sub_Urban,Student,19063,False,True,False,1,1,0,2,1,2,0,1,0
+-1.4072980488647737,-0.7999008394817166,-1.4138021638810747,22,female,3,Instagram,Travel,United States,Urban,Marketer Manager,10834,False,True,True,0,1,2,2,2,0,0,1,1
+-0.4436998904721654,0.3828012395942567,1.3848398040471952,35,female,6,YouTube,Travel,United States,Urban,Marketer Manager,19110,True,True,False,0,2,2,2,2,0,1,1,0
+0.29752946213753323,0.7770352659529145,-1.1128365583402144,45,non-binary,7,Instagram,Lifestlye,United States,Rural,Marketer Manager,11724,False,True,True,2,1,0,2,0,0,0,1,1
+1.3352505557911114,-0.4056668131230588,0.5353728364981601,59,male,4,Facebook,Sports,United Kingdom,Rural,Student,16598,False,False,False,1,0,1,1,0,2,0,0,0
+-0.14720814942828594,0.7770352659529145,-0.8798418367473461,39,female,7,YouTube,Lifestlye,United Kingdom,Rural,Student,12413,True,True,True,0,2,0,1,0,2,1,1,1
+-0.2213310846892558,1.56550331867023,1.5184144267310602,38,male,9,YouTube,Lifestlye,Australia,Sub_Urban,Software Engineer,19505,True,True,True,1,2,0,0,1,1,1,1,1
+-1.3331751136038037,-1.1941348658403743,0.3307838574507214,23,female,2,Facebook,Sports,Australia,Rural,Software Engineer,15993,False,False,False,0,0,1,0,0,1,0,0,0
+-1.7037897899086532,-0.7999008394817166,-0.1747707271375777,18,male,3,Instagram,Lifestlye,United States,Urban,Software Engineer,14498,False,False,False,1,1,0,2,2,1,0,0,0
+-1.4072980488647737,-0.011432786764401043,-0.9839962260805876,22,non-binary,5,YouTube,Sports,Australia,Rural,Student,12105,False,True,True,2,2,1,0,0,2,0,1,1
+1.2611276205301414,-0.7999008394817166,-0.827426478478994,58,female,3,YouTube,Travel,Australia,Rural,Software Engineer,12568,False,True,True,0,2,2,0,0,1,0,1,1
+-0.8884375020379846,1.1712692923115724,1.459235796428082,29,female,8,Facebook,Travel,United States,Sub_Urban,Marketer Manager,19330,True,False,True,0,0,2,2,1,0,1,0,1
+0.1492835916155935,1.1712692923115724,-1.6251544149631396,43,male,8,Facebook,Sports,United States,Sub_Urban,Marketer Manager,10209,False,True,True,1,0,1,2,1,0,0,1,1
+1.6317422968349908,1.1712692923115724,1.4342116898999655,63,male,8,Instagram,Travel,Australia,Urban,Student,19256,True,False,True,1,1,2,0,2,2,1,0,1
+0.7422670737033524,1.56550331867023,-0.035109159622549256,51,female,9,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,14911,True,True,True,0,2,2,1,1,1,1,1,1
+-0.7401916315160448,-0.4056668131230588,-0.9451074118814876,31,non-binary,4,Instagram,Sports,Australia,Rural,Marketer Manager,12220,False,False,True,2,1,1,0,0,0,0,0,1
+0.1492835916155935,-0.011432786764401043,-1.6170384885215883,43,male,5,Instagram,Travel,Australia,Sub_Urban,Student,10233,False,False,False,1,1,2,0,1,2,0,0,0
+1.557619361574021,-0.011432786764401043,-1.4280050351537894,62,male,5,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,10792,False,False,True,1,0,0,1,2,1,0,0,1
+0.2234065268765634,1.1712692923115724,-0.6441418063406273,44,male,8,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,13110,True,True,False,1,2,0,1,0,0,1,1,0
+-1.110806307820894,0.7770352659529145,-0.9633682463749781,26,female,7,YouTube,Sports,United States,Urban,Software Engineer,12166,True,True,False,0,2,1,2,2,1,1,1,0
+0.1492835916155935,1.56550331867023,1.1873522606361138,43,female,9,YouTube,Travel,United States,Sub_Urban,Student,18526,True,True,True,0,2,2,2,1,2,1,1,1
+1.7058652320959606,1.1712692923115724,1.5339699524107002,64,female,8,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,19551,True,True,True,0,0,0,0,1,1,1,1,1
+-0.14720814942828594,-1.1941348658403743,0.0602529760656784,39,female,2,Facebook,Lifestlye,United Kingdom,Urban,Student,15193,False,False,False,0,0,0,1,2,2,0,0,0
+1.7058652320959606,-0.4056668131230588,-1.2852999952231792,64,non-binary,4,Facebook,Travel,United States,Rural,Software Engineer,11214,True,False,True,2,0,2,2,0,1,1,0,1
+0.445775332659473,0.3828012395942567,-0.2014856516743507,47,non-binary,6,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,14419,True,False,True,2,0,2,0,1,0,1,0,1
+1.4093734910520812,-1.1941348658403743,0.7774979753377737,60,female,2,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,17314,False,True,False,0,0,0,1,1,2,0,1,0
+-0.5178228257331352,0.7770352659529145,1.1701059169478174,34,non-binary,7,YouTube,Lifestlye,Australia,Rural,Student,18475,True,True,False,2,2,0,0,0,2,1,1,0
+0.1492835916155935,-0.7999008394817166,-1.6241399241579455,43,male,3,Instagram,Sports,United States,Sub_Urban,Student,10212,True,True,False,1,1,1,2,1,2,1,1,0
+0.8905129442252921,-0.7999008394817166,-1.1351553560544805,53,male,3,YouTube,Sports,United States,Urban,Software Engineer,11658,False,False,True,1,2,1,2,2,1,0,0,1
+-1.7037897899086532,-1.1941348658403743,0.0031033273730880664,18,male,2,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,15024,True,True,True,1,1,0,1,1,1,1,1,1
+-1.184929243081864,1.1712692923115724,1.5535834413111158,25,female,8,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,19609,True,True,False,0,0,1,0,1,0,1,1,0
+0.8163900089643223,0.3828012395942567,0.3050834237191423,52,male,6,Instagram,Lifestlye,United Kingdom,Rural,Student,15917,True,False,True,1,1,0,1,0,2,1,0,1
+-0.666068696255075,-1.5883688921990322,0.04266846877565061,32,non-binary,1,YouTube,Lifestlye,United States,Urban,Student,15141,True,False,False,2,2,0,2,2,2,1,0,0
+1.7058652320959606,-1.5883688921990322,-1.089165106219023,64,female,1,YouTube,Sports,United States,Rural,Software Engineer,11794,False,True,True,0,2,1,2,0,1,0,1,1
+-0.14720814942828594,0.7770352659529145,0.32909303944206486,39,non-binary,7,Instagram,Sports,Australia,Sub_Urban,Software Engineer,15988,True,False,False,2,1,1,0,1,1,1,0,0
+-0.7401916315160448,1.1712692923115724,1.1095746322379139,31,male,8,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,18296,False,True,True,1,0,2,0,1,0,0,1,1
+0.1492835916155935,-0.011432786764401043,0.19044596273223036,43,male,5,Facebook,Travel,Australia,Rural,Marketer Manager,15578,True,False,False,1,0,2,0,0,0,1,0,0
+0.29752946213753323,-0.011432786764401043,0.18131554548548515,45,male,5,YouTube,Travel,United Kingdom,Rural,Software Engineer,15551,False,False,True,1,2,2,1,0,1,0,0,1
+-0.07308521416731607,-0.4056668131230588,-0.39559155906811905,40,female,4,Instagram,Lifestlye,Australia,Rural,Student,13845,False,False,True,0,1,0,0,0,2,0,0,1
+-0.7401916315160448,0.3828012395942567,0.6395272258314018,31,non-binary,6,Facebook,Sports,Australia,Urban,Marketer Manager,16906,False,True,False,2,0,1,0,2,0,0,1,0
+0.001037721093653793,0.3828012395942567,-1.5680047662705492,41,female,6,Facebook,Lifestlye,United States,Sub_Urban,Software Engineer,10378,True,True,True,0,0,0,2,1,1,1,1,1
+-1.6296668546476831,-0.7999008394817166,-0.5822578672237987,19,female,3,YouTube,Sports,United States,Rural,Software Engineer,13293,True,True,True,0,2,1,2,0,1,1,1,1
+1.557619361574021,1.56550331867023,-0.5700839775614718,62,male,9,Facebook,Lifestlye,Australia,Sub_Urban,Student,13329,True,False,False,1,0,0,0,1,2,1,0,0
+0.1492835916155935,0.7770352659529145,-0.06994001060087354,43,female,7,Instagram,Travel,Australia,Urban,Software Engineer,14808,False,False,True,0,1,2,0,2,1,0,0,1
+-0.7401916315160448,-1.5883688921990322,0.9881738992163759,31,female,1,YouTube,Travel,United States,Urban,Software Engineer,17937,True,False,True,0,2,2,2,2,1,1,0,1
+-1.259052178342834,0.7770352659529145,-1.62008196093717,24,male,7,YouTube,Travel,Australia,Urban,Marketer Manager,10224,True,False,True,1,2,2,0,2,0,1,0,1
+-1.5555439193867133,-0.011432786764401043,-1.446604033249011,20,female,5,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,10737,True,True,False,0,1,0,1,2,1,1,1,0
+1.7058652320959606,-0.011432786764401043,-1.6163621613181256,64,male,5,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,10235,True,True,False,1,2,1,1,1,1,1,1,0
+-0.07308521416731607,-1.1941348658403743,-1.4553962868940251,40,male,2,Facebook,Sports,United Kingdom,Urban,Marketer Manager,10711,False,True,False,1,0,1,1,2,0,0,1,0
+1.6317422968349908,-0.4056668131230588,0.32909303944206486,63,male,4,Facebook,Travel,Australia,Urban,Student,15988,False,False,False,1,0,2,0,2,2,0,0,0
+1.4093734910520812,0.3828012395942567,-1.0573777276562806,60,male,6,Instagram,Travel,United States,Rural,Student,11888,True,False,False,1,1,2,2,0,2,1,0,0
+1.7058652320959606,0.7770352659529145,0.7298169074936598,64,female,7,Facebook,Travel,Australia,Urban,Marketer Manager,17173,True,True,True,0,0,2,0,2,0,1,1,1
+1.557619361574021,-0.011432786764401043,-1.2700826331452706,62,male,5,Instagram,Travel,Australia,Rural,Marketer Manager,11259,True,False,True,1,1,2,0,0,0,1,0,1
+-0.4436998904721654,1.56550331867023,0.0781756469574375,35,male,9,Instagram,Sports,United States,Urban,Student,15246,False,True,False,1,1,1,2,2,2,0,1,0
+1.038758814747232,-0.7999008394817166,0.7629569404633276,55,female,3,Facebook,Lifestlye,United States,Urban,Student,17271,True,False,True,0,0,0,2,2,2,1,0,1
+0.8163900089643223,-1.5883688921990322,-1.4428842336299668,52,female,1,Instagram,Lifestlye,United States,Rural,Student,10748,False,False,True,0,1,0,2,0,2,0,0,1
+-0.666068696255075,-0.4056668131230588,-0.4950116579771224,32,non-binary,4,Facebook,Lifestlye,United Kingdom,Urban,Student,13551,False,True,True,2,0,0,1,2,2,0,1,1
+0.07516065635462366,1.56550331867023,0.46841644335536203,42,female,9,YouTube,Lifestlye,Australia,Sub_Urban,Student,16400,True,True,True,0,2,0,0,1,2,1,1,1
+0.9646358794862621,-0.4056668131230588,0.5505901985760688,54,female,4,YouTube,Travel,United States,Sub_Urban,Marketer Manager,16643,True,False,False,0,2,2,2,1,0,1,0,0
+0.29752946213753323,-1.1941348658403743,1.246530890939092,45,non-binary,2,Instagram,Travel,Australia,Urban,Software Engineer,18701,True,True,False,2,1,2,0,2,1,1,1,0
+-1.0366833725599243,-0.011432786764401043,-1.0793583617688152,27,female,5,Facebook,Travel,United Kingdom,Sub_Urban,Student,11823,False,True,True,0,0,2,1,1,2,0,1,1
+1.1128817500082018,-0.7999008394817166,0.6212663913379113,56,female,3,Facebook,Lifestlye,United Kingdom,Rural,Student,16852,False,False,True,0,0,0,1,0,2,0,0,1
+-0.5178228257331352,1.56550331867023,0.9340677229393674,34,female,9,YouTube,Travel,United States,Urban,Software Engineer,17777,True,False,False,0,2,2,2,2,1,1,0,0
+1.1128817500082018,-0.4056668131230588,-0.2647222451981045,56,female,4,YouTube,Travel,United States,Urban,Software Engineer,14232,False,False,True,0,2,2,2,2,1,0,0,1
+-0.14720814942828594,0.3828012395942567,0.5086579119613872,39,non-binary,6,Facebook,Sports,Australia,Rural,Software Engineer,16519,True,True,True,2,0,1,0,0,1,1,1,1
+0.1492835916155935,-1.1941348658403743,-1.0949138874484552,43,female,2,Instagram,Sports,United States,Rural,Software Engineer,11777,True,False,True,0,1,1,2,0,1,1,0,1
+1.483496426313051,0.3828012395942567,-1.2825946864093287,61,female,6,YouTube,Travel,Australia,Rural,Software Engineer,11222,False,False,False,0,2,2,0,0,1,0,0,0
+0.07516065635462366,-0.7999008394817166,0.8843576734848656,42,non-binary,3,Instagram,Sports,United States,Urban,Software Engineer,17630,False,False,False,2,1,1,2,2,1,0,0,0
+-0.5178228257331352,1.56550331867023,-1.0949138874484552,34,male,9,Instagram,Sports,Australia,Rural,Marketer Manager,11777,False,False,True,1,1,1,0,0,0,0,0,1
+-0.8143145667770147,-1.1941348658403743,1.5153709543154785,30,non-binary,2,YouTube,Travel,Australia,Rural,Software Engineer,19496,False,False,True,2,2,2,0,0,1,0,0,1
+-0.2954540199502257,1.56550331867023,0.8370147692424831,37,male,9,Instagram,Travel,Australia,Sub_Urban,Software Engineer,17490,True,True,True,1,1,2,0,1,1,1,1,1
+0.07516065635462366,-0.011432786764401043,-0.052693666912577056,42,non-binary,5,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,14859,True,False,True,2,1,2,0,1,0,1,0,1
+-1.4814209841257435,1.1712692923115724,1.3114583024715023,21,non-binary,8,Facebook,Travel,United Kingdom,Urban,Software Engineer,18893,True,False,True,2,0,2,1,2,1,1,0,1
+-1.0366833725599243,-1.1941348658403743,1.049381511129742,27,female,2,Instagram,Lifestlye,Australia,Sub_Urban,Student,18118,False,True,True,0,1,0,0,1,2,0,1,1
+-1.5555439193867133,0.3828012395942567,-0.6850596021501151,20,male,6,Facebook,Lifestlye,United States,Sub_Urban,Student,12989,True,False,False,1,0,0,2,1,2,1,0,0
+1.2611276205301414,-0.7999008394817166,1.1254683215192853,58,female,3,YouTube,Travel,United Kingdom,Rural,Software Engineer,18343,False,False,False,0,2,2,1,0,1,0,0,0
+1.557619361574021,-0.011432786764401043,-1.2477638354310046,62,male,5,YouTube,Sports,United Kingdom,Rural,Marketer Manager,11325,False,True,True,1,2,1,1,0,0,0,1,1
+-0.4436998904721654,1.1712692923115724,1.5143564635102846,35,non-binary,8,Facebook,Travel,Australia,Sub_Urban,Student,19493,False,False,False,2,0,2,0,1,2,0,0,0
+1.7058652320959606,-1.5883688921990322,1.653003540220119,64,non-binary,1,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,19903,True,True,True,2,2,2,1,1,0,1,1,1
+0.8905129442252921,-0.011432786764401043,0.037934178351412357,53,male,5,Instagram,Sports,Australia,Sub_Urban,Student,15127,False,False,True,1,1,1,0,1,2,0,0,1
+1.7058652320959606,-0.7999008394817166,1.3469654806532891,64,female,3,Instagram,Lifestlye,United States,Urban,Software Engineer,18998,False,True,False,0,1,0,2,2,1,0,1,0
+-0.14720814942828594,-0.4056668131230588,-0.7753492838123732,39,female,4,Instagram,Travel,Australia,Urban,Marketer Manager,12722,False,True,False,0,1,2,0,2,0,0,1,0
+0.7422670737033524,-1.1941348658403743,-0.12134087806403171,51,female,2,YouTube,Travel,United Kingdom,Urban,Marketer Manager,14656,False,False,True,0,2,2,1,2,0,0,0,1
+1.7058652320959606,1.56550331867023,-1.2477638354310046,64,female,9,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,11325,False,True,True,0,1,0,2,1,0,0,1,1
+-1.184929243081864,-0.7999008394817166,-0.29820044176950355,25,non-binary,3,YouTube,Lifestlye,Australia,Sub_Urban,Student,14133,False,True,False,2,2,0,0,1,2,0,1,0
+1.1870046852691716,-1.1941348658403743,1.4663372320644394,57,non-binary,2,Instagram,Sports,United States,Urban,Student,19351,False,False,False,2,1,1,2,2,2,0,0,0
+1.483496426313051,1.56550331867023,-0.7256392343578715,61,non-binary,9,Facebook,Lifestlye,United States,Urban,Student,12869,False,False,True,2,0,0,2,2,2,0,0,1
+-0.36957695521119555,0.7770352659529145,-1.2758314143747027,36,non-binary,7,YouTube,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,11242,False,True,True,2,2,0,1,1,1,0,1,1
+1.3352505557911114,0.3828012395942567,1.1917483874586208,59,non-binary,6,YouTube,Lifestlye,United States,Rural,Student,18539,False,False,True,2,2,0,2,0,2,0,0,1
+1.2611276205301414,-1.5883688921990322,-1.076653052954965,58,female,1,Instagram,Sports,United Kingdom,Urban,Software Engineer,11831,False,True,False,0,1,1,1,2,1,0,1,0
+0.9646358794862621,-0.011432786764401043,-1.1652519166085664,54,female,5,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,11569,False,True,True,0,2,0,2,1,0,0,1,1
+-1.3331751136038037,-0.7999008394817166,0.7545028504200451,23,female,3,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,17246,True,False,False,0,2,0,0,1,0,1,0,0
+0.1492835916155935,-1.5883688921990322,-1.0472328196043414,43,female,1,Facebook,Sports,United States,Rural,Software Engineer,11918,True,False,True,0,0,1,2,0,1,1,0,1
+0.7422670737033524,-0.4056668131230588,0.4738270609830629,51,non-binary,4,Facebook,Lifestlye,Australia,Sub_Urban,Student,16416,False,True,False,2,0,0,0,1,2,0,1,0
+1.557619361574021,-1.1941348658403743,-0.6028858469294083,62,non-binary,2,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,13232,False,False,False,2,1,0,0,1,1,0,0,0
+-1.3331751136038037,-1.1941348658403743,-0.4250117924187425,23,non-binary,2,Facebook,Sports,United States,Urban,Marketer Manager,13758,False,False,False,2,0,1,2,2,0,0,0,0
+0.9646358794862621,-0.7999008394817166,0.33213651185764664,54,male,3,Instagram,Travel,Australia,Urban,Marketer Manager,15997,True,True,False,1,1,2,0,2,0,1,1,0
+0.6681441384423826,1.1712692923115724,-0.8994553256477616,50,female,8,Instagram,Sports,United States,Rural,Software Engineer,12355,True,True,True,0,1,1,2,0,1,1,1,1
+-0.14720814942828594,1.1712692923115724,1.5468201692764898,39,female,8,Instagram,Lifestlye,United States,Rural,Student,19589,True,True,False,0,1,0,2,0,2,1,1,0
+-0.2213310846892558,0.7770352659529145,-1.079020198167084,38,non-binary,7,YouTube,Lifestlye,Australia,Sub_Urban,Student,11824,False,True,False,2,2,0,0,1,2,0,1,0
+-1.3331751136038037,0.3828012395942567,0.7660004128789093,23,female,6,Facebook,Lifestlye,Australia,Urban,Software Engineer,17280,False,True,False,0,0,0,0,2,1,0,1,0
+-1.3331751136038037,1.56550331867023,-0.32288638469588876,23,female,9,Instagram,Sports,United Kingdom,Rural,Software Engineer,14060,False,True,True,0,1,1,1,0,1,0,1,1
+-1.4814209841257435,-0.4056668131230588,0.10455240789247919,21,non-binary,4,Facebook,Lifestlye,Australia,Rural,Student,15324,False,False,True,2,0,0,0,0,2,0,0,1
+0.445775332659473,-1.5883688921990322,-1.5592125126255354,47,male,1,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,10404,True,True,True,1,1,0,1,0,0,1,1,1
+-0.9625604372989545,1.1712692923115724,-1.1138510491454083,28,male,8,Facebook,Sports,Australia,Sub_Urban,Software Engineer,11721,False,False,True,1,0,1,0,1,1,0,0,1
+0.445775332659473,0.7770352659529145,0.10184709907862877,47,male,7,Facebook,Travel,United States,Urban,Student,15316,True,False,True,1,0,2,2,2,2,1,0,1
+0.5198982679204428,0.7770352659529145,-0.39559155906811905,48,non-binary,7,Instagram,Travel,Australia,Rural,Student,13845,True,True,True,2,1,2,0,0,2,1,1,1
+0.001037721093653793,-0.7999008394817166,-0.2721618444361932,41,female,3,YouTube,Lifestlye,United States,Urban,Marketer Manager,14210,False,False,False,0,2,0,2,2,0,0,0,0
+-1.110806307820894,-0.4056668131230588,-1.6741881372141785,26,non-binary,4,Facebook,Sports,United States,Rural,Marketer Manager,10064,True,True,False,2,0,1,2,0,0,1,1,0
+-1.5555439193867133,1.56550331867023,1.513680136306822,20,non-binary,9,YouTube,Lifestlye,United States,Rural,Marketer Manager,19491,True,False,False,2,2,0,2,0,0,1,0,0
+0.5198982679204428,0.3828012395942567,0.4623294985241986,48,female,6,YouTube,Sports,United Kingdom,Urban,Marketer Manager,16382,True,True,True,0,2,1,1,2,0,1,1,1
+1.1870046852691716,-0.011432786764401043,1.5529071141076531,57,male,5,Instagram,Sports,Australia,Urban,Marketer Manager,19607,True,True,False,1,1,1,0,2,0,1,1,0
+0.9646358794862621,-0.7999008394817166,-1.36848824124908,54,male,3,Instagram,Travel,United States,Urban,Software Engineer,10968,False,True,False,1,1,2,2,2,1,0,1,0
+0.8905129442252921,1.56550331867023,-1.5713864022878623,53,non-binary,9,Instagram,Travel,United States,Sub_Urban,Student,10368,False,True,True,2,1,2,2,1,2,0,1,1
+0.001037721093653793,-0.011432786764401043,1.1528595732595208,41,male,5,Facebook,Sports,United Kingdom,Rural,Software Engineer,18424,True,False,False,1,0,1,1,0,1,1,0,0
+0.5198982679204428,-0.011432786764401043,-0.9376678126433989,48,non-binary,5,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,12242,False,False,True,2,1,0,0,1,1,0,0,1
+-1.3331751136038037,-0.4056668131230588,-0.004336271865000616,23,non-binary,4,Instagram,Travel,Australia,Urban,Software Engineer,15002,True,False,False,2,1,2,0,2,1,1,0,0
+-1.6296668546476831,-0.4056668131230588,-0.6532722235873726,19,female,4,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,13083,False,False,True,0,0,0,1,0,1,0,0,1
+-0.2954540199502257,-1.5883688921990322,1.0341641490518332,37,female,1,Facebook,Travel,United Kingdom,Sub_Urban,Software Engineer,18073,False,False,True,0,0,2,1,1,1,0,0,1
+0.29752946213753323,0.7770352659529145,1.3855161312506579,45,female,7,Instagram,Travel,Australia,Rural,Marketer Manager,19112,False,True,True,0,1,2,0,0,0,0,1,1
+-0.9625604372989545,1.56550331867023,1.3070621756489953,28,non-binary,9,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,18880,False,True,False,2,1,0,1,1,0,0,1,0
+-1.4814209841257435,-0.7999008394817166,-1.1990682767816967,21,female,3,Instagram,Travel,Australia,Urban,Student,11469,False,True,False,0,1,2,0,2,2,0,1,0
+-0.666068696255075,-1.1941348658403743,-0.09800758954457175,32,male,2,Instagram,Travel,Australia,Sub_Urban,Software Engineer,14725,True,True,True,1,1,2,0,1,1,1,1,1
+-1.3331751136038037,-0.7999008394817166,-0.2555918279513593,23,male,3,YouTube,Lifestlye,United States,Rural,Student,14259,False,True,True,1,2,0,2,0,2,0,1,1
+0.445775332659473,-1.5883688921990322,-0.4710020422541998,47,non-binary,1,YouTube,Travel,United States,Rural,Marketer Manager,13622,True,False,False,2,2,2,2,0,0,1,0,0
+1.038758814747232,0.3828012395942567,-1.417521963500119,55,non-binary,6,Instagram,Travel,Australia,Rural,Marketer Manager,10823,True,True,False,2,1,2,0,0,0,1,1,0
+-1.6296668546476831,0.7770352659529145,-0.5355912901848788,19,female,7,YouTube,Travel,Australia,Rural,Marketer Manager,13431,False,True,True,0,2,2,0,0,0,0,1,1
+-0.666068696255075,-1.1941348658403743,0.5117013843769689,32,non-binary,2,Facebook,Lifestlye,Australia,Urban,Software Engineer,16528,True,False,False,2,0,0,0,2,1,1,0,0
+-0.9625604372989545,1.1712692923115724,-0.2921134969383401,28,non-binary,8,YouTube,Sports,Australia,Sub_Urban,Software Engineer,14151,False,False,False,2,2,1,0,1,1,0,0,0
+-1.184929243081864,0.3828012395942567,-0.2711473536309993,25,male,6,YouTube,Lifestlye,Australia,Urban,Marketer Manager,14213,True,True,False,1,2,0,0,2,0,1,1,0
+0.1492835916155935,-0.4056668131230588,0.8133433171212918,43,male,4,Instagram,Sports,Australia,Urban,Student,17420,True,True,True,1,1,1,0,2,2,1,1,1
+1.557619361574021,-0.011432786764401043,1.3439220082377075,62,female,5,YouTube,Travel,United Kingdom,Urban,Student,18989,False,False,True,0,2,2,1,2,2,0,0,1
+1.483496426313051,1.1712692923115724,-1.4324011619762964,61,non-binary,8,YouTube,Sports,Australia,Rural,Marketer Manager,10779,False,True,False,2,2,1,0,0,0,0,1,0
+-1.4072980488647737,-0.7999008394817166,-0.7178614715180516,22,non-binary,3,YouTube,Lifestlye,United Kingdom,Rural,Student,12892,False,True,True,2,2,0,1,0,2,0,1,1
+-1.3331751136038037,-0.7999008394817166,0.17556676425605297,23,male,3,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,15534,False,True,False,1,2,0,1,0,0,0,1,0
+0.1492835916155935,-0.4056668131230588,-0.5778617404012918,43,non-binary,4,Facebook,Travel,Australia,Sub_Urban,Student,13306,True,False,False,2,0,2,0,1,2,1,0,0
+-1.4814209841257435,-1.5883688921990322,-0.7144798355007385,21,male,1,Instagram,Sports,Australia,Rural,Marketer Manager,12902,False,True,True,1,1,1,0,0,0,0,1,1
+-0.36957695521119555,1.56550331867023,-0.4385383364879946,36,female,9,Instagram,Travel,United Kingdom,Sub_Urban,Student,13718,True,True,True,0,1,2,1,1,2,1,1,1
+-0.2954540199502257,1.1712692923115724,-1.6887291720886246,37,male,8,Facebook,Travel,United Kingdom,Rural,Software Engineer,10021,True,False,True,1,0,2,1,0,1,1,0,1
+0.6681441384423826,1.1712692923115724,-1.1885852051280263,50,non-binary,8,YouTube,Lifestlye,Australia,Rural,Marketer Manager,11500,True,False,False,2,2,0,0,0,0,1,0,0
+-0.2954540199502257,0.3828012395942567,1.359139370315616,37,female,6,Facebook,Sports,Australia,Urban,Marketer Manager,19034,True,False,False,0,0,1,0,2,0,1,0,0
+-0.8884375020379846,0.7770352659529145,1.669573556704953,29,male,7,YouTube,Sports,United Kingdom,Urban,Student,19952,True,True,True,1,2,1,1,2,2,1,1,1
+1.7058652320959606,0.3828012395942567,-0.46457693382130505,64,male,6,Facebook,Sports,United Kingdom,Urban,Marketer Manager,13641,True,False,True,1,0,1,1,2,0,1,0,1
+-1.7037897899086532,1.56550331867023,0.06667808449857317,18,female,9,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,15212,False,True,True,0,1,1,1,1,0,0,1,1
+0.1492835916155935,-0.7999008394817166,-1.631241359794303,43,female,3,Instagram,Travel,United States,Sub_Urban,Marketer Manager,10191,True,False,False,0,1,2,2,1,0,1,0,0
+-0.7401916315160448,-0.7999008394817166,1.2079802403417232,31,male,3,Instagram,Travel,United Kingdom,Rural,Software Engineer,18587,True,True,False,1,1,2,1,0,1,1,1,0
+1.038758814747232,-0.7999008394817166,0.7301550710953911,55,non-binary,3,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,17174,True,False,False,2,2,0,2,1,1,1,0,0
+0.9646358794862621,-0.7999008394817166,0.033538051528905405,54,male,3,YouTube,Travel,Australia,Rural,Student,15114,False,True,True,1,2,2,0,0,2,0,1,1
+-0.9625604372989545,1.56550331867023,-0.11931189645364389,28,female,9,Facebook,Travel,Australia,Sub_Urban,Software Engineer,14662,False,True,True,0,0,2,0,1,1,0,1,1
+0.8905129442252921,-0.4056668131230588,-0.23293486663536195,53,male,4,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,14326,True,False,False,1,0,0,1,1,2,1,0,0
+-0.8143145667770147,0.7770352659529145,1.3696224419692866,30,female,7,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,19065,False,False,True,0,1,0,0,1,1,0,0,1
+1.4093734910520812,1.56550331867023,-0.22989139421978022,60,female,9,YouTube,Lifestlye,Australia,Urban,Student,14335,True,True,True,0,2,0,0,2,2,1,1,1
+-1.5555439193867133,0.7770352659529145,1.1045021782119444,20,non-binary,7,Facebook,Travel,Australia,Sub_Urban,Software Engineer,18281,False,False,True,2,0,2,0,1,1,0,0,1
+0.6681441384423826,1.56550331867023,1.228608220047333,50,female,9,YouTube,Travel,Australia,Urban,Software Engineer,18648,True,True,True,0,2,2,0,2,1,1,1,1
+-1.3331751136038037,-0.7999008394817166,1.4139218737960872,23,female,3,YouTube,Lifestlye,United States,Urban,Student,19196,False,False,False,0,2,0,2,2,2,0,0,0
+-1.0366833725599243,-0.4056668131230588,0.16204022018680084,27,non-binary,4,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,15494,False,False,True,2,1,0,2,1,0,0,0,1
+-1.4072980488647737,1.1712692923115724,1.1907338966534269,22,female,8,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,18536,False,True,False,0,1,0,1,0,0,0,1,0
+-0.07308521416731607,0.3828012395942567,-0.7790690834314176,40,non-binary,6,YouTube,Travel,United Kingdom,Rural,Software Engineer,12711,True,False,False,2,2,2,1,0,1,1,0,0
+-1.0366833725599243,-0.011432786764401043,0.87252194742427,27,non-binary,5,YouTube,Travel,United Kingdom,Rural,Student,17595,True,False,True,2,2,2,1,0,2,1,0,1
+1.483496426313051,-0.4056668131230588,0.42546966593548646,61,female,4,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,16273,True,True,False,0,2,1,0,1,0,1,1,0
+-1.6296668546476831,1.1712692923115724,0.4291894655545308,19,female,8,YouTube,Travel,Australia,Rural,Student,16284,False,True,False,0,2,2,0,0,2,0,1,0
